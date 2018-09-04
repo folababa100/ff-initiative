@@ -1,0 +1,2752 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <YourOrder />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <button
+          className="faq-btn btn btn-lg"
+          onClick={[Function]}
+          type="button"
+>
+          Show All Answers
+</button>,
+        <div
+          className="container mt-4"
+          id="k"
+>
+          <div
+                    className="row"
+          >
+                    <div
+                              className="col-12"
+                    >
+                              <h5
+                                        className="mb-5"
+                              >
+                                        Your Order
+                              </h5>
+                              <div
+                                        className="container"
+                              >
+                                        <div
+                                                  className="row"
+                                        >
+                                                  <div
+                                                            className="col-12"
+                                                  >
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      How do I sign on to begin shopping on Konga?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      Can I buy in bulk?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      Why do I see different prices for the same product?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      How do I save items to view later?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      What is buyer protection?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      What is the estimated delivery time? When can I expect my order to arrive?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      Why does the estimated delivery time vary?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      Who will deliver my Order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      Will all of the items in my order arrive in a single package?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      My order is shipped. How can I track it?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      How do I cancel an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                      onClick={[Function]}
+                                                            >
+                                                                      How can I view and print the invoice for an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                      className="hr hr-full"
+                                                            />
+                                                  </div>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+</div>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Show All Answers",
+          "className": "faq-btn btn btn-lg",
+          "onClick": [Function],
+          "type": "button",
+        },
+        "ref": null,
+        "rendered": "Show All Answers",
+        "type": "button",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="row"
+>
+            <div
+                        className="col-12"
+            >
+                        <h5
+                                    className="mb-5"
+                        >
+                                    Your Order
+                        </h5>
+                        <div
+                                    className="container"
+                        >
+                                    <div
+                                                className="row"
+                                    >
+                                                <div
+                                                            className="col-12"
+                                                >
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        How do I sign on to begin shopping on Konga?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        Can I buy in bulk?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        Why do I see different prices for the same product?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        How do I save items to view later?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        What is buyer protection?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        What is the estimated delivery time? When can I expect my order to arrive?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        Why does the estimated delivery time vary?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        Who will deliver my Order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        Will all of the items in my order arrive in a single package?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        My order is shipped. How can I track it?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        How do I cancel an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                        onClick={[Function]}
+                                                            >
+                                                                        How can I view and print the invoice for an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                        className="hr hr-full"
+                                                            />
+                                                </div>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+          "className": "container mt-4",
+          "id": "k",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="col-12"
+>
+              <h5
+                            className="mb-5"
+              >
+                            Your Order
+              </h5>
+              <div
+                            className="container"
+              >
+                            <div
+                                          className="row"
+                            >
+                                          <div
+                                                        className="col-12"
+                                          >
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      How do I sign on to begin shopping on Konga?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      Can I buy in bulk?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      Why do I see different prices for the same product?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      How do I save items to view later?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      What is buyer protection?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      What is the estimated delivery time? When can I expect my order to arrive?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      Why does the estimated delivery time vary?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      Who will deliver my Order?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      Will all of the items in my order arrive in a single package?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      My order is shipped. How can I track it?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      How do I cancel an order?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                                        <p
+                                                                      onClick={[Function]}
+                                                        >
+                                                                      How can I view and print the invoice for an order?
+                                                        </p>
+                                                        <div />
+                                                        <hr
+                                                                      className="hr hr-full"
+                                                        />
+                                          </div>
+                            </div>
+              </div>
+</div>,
+            "className": "row",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h5
+                  className="mb-5"
+>
+                  Your Order
+</h5>,
+                <div
+                  className="container"
+>
+                  <div
+                                    className="row"
+                  >
+                                    <div
+                                                      className="col-12"
+                                    >
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        How do I sign on to begin shopping on Konga?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        Can I buy in bulk?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        Why do I see different prices for the same product?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        How do I save items to view later?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        What is buyer protection?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        What is the estimated delivery time? When can I expect my order to arrive?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        Why does the estimated delivery time vary?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        Who will deliver my Order?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        Will all of the items in my order arrive in a single package?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        My order is shipped. How can I track it?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        How do I cancel an order?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                                      <p
+                                                                        onClick={[Function]}
+                                                      >
+                                                                        How can I view and print the invoice for an order?
+                                                      </p>
+                                                      <div />
+                                                      <hr
+                                                                        className="hr hr-full"
+                                                      />
+                                    </div>
+                  </div>
+</div>,
+              ],
+              "className": "col-12",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Your Order",
+                  "className": "mb-5",
+                },
+                "ref": null,
+                "rendered": "Your Order",
+                "type": "h5",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <div
+                    className="row"
+>
+                    <div
+                                        className="col-12"
+                    >
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            How do I sign on to begin shopping on Konga?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            Can I buy in bulk?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            Why do I see different prices for the same product?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            How do I save items to view later?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            What is buyer protection?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            What is the estimated delivery time? When can I expect my order to arrive?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            Why does the estimated delivery time vary?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            Who will deliver my Order?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            Will all of the items in my order arrive in a single package?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            My order is shipped. How can I track it?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            How do I cancel an order?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                                        <p
+                                                            onClick={[Function]}
+                                        >
+                                                            How can I view and print the invoice for an order?
+                                        </p>
+                                        <div />
+                                        <hr
+                                                            className="hr hr-full"
+                                        />
+                    </div>
+</div>,
+                  "className": "container",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <div
+                      className="col-12"
+>
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            How do I sign on to begin shopping on Konga?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            Can I buy in bulk?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            Why do I see different prices for the same product?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            How do I save items to view later?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            What is buyer protection?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            What is the estimated delivery time? When can I expect my order to arrive?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            Why does the estimated delivery time vary?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            Who will deliver my Order?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            Will all of the items in my order arrive in a single package?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            My order is shipped. How can I track it?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            How do I cancel an order?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+                      <p
+                                            onClick={[Function]}
+                      >
+                                            How can I view and print the invoice for an order?
+                      </p>
+                      <div />
+                      <hr
+                                            className="hr hr-full"
+                      />
+</div>,
+                    "className": "row",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <p
+                          onClick={[Function]}
+>
+                          How do I sign on to begin shopping on Konga?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          Can I buy in bulk?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          Why do I see different prices for the same product?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          How do I save items to view later?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          What is buyer protection?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          What is the estimated delivery time? When can I expect my order to arrive?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          Why does the estimated delivery time vary?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          Who will deliver my Order?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          Will all of the items in my order arrive in a single package?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          My order is shipped. How can I track it?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          How do I cancel an order?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                        <p
+                          onClick={[Function]}
+>
+                          How can I view and print the invoice for an order?
+</p>,
+                        <div />,
+                        <hr
+                          className="hr hr-full"
+/>,
+                      ],
+                      "className": "col-12",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "How do I sign on to begin shopping on Konga?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "How do I sign on to begin shopping on Konga?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Can I buy in bulk?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "Can I buy in bulk?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Why do I see different prices for the same product?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "Why do I see different prices for the same product?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "How do I save items to view later?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "How do I save items to view later?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "What is buyer protection?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "What is buyer protection?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "What is the estimated delivery time? When can I expect my order to arrive?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "What is the estimated delivery time? When can I expect my order to arrive?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Why does the estimated delivery time vary?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "Why does the estimated delivery time vary?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Who will deliver my Order?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "Who will deliver my Order?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Will all of the items in my order arrive in a single package?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "Will all of the items in my order arrive in a single package?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "My order is shipped. How can I track it?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "My order is shipped. How can I track it?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "How do I cancel an order?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "How do I cancel an order?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "How can I view and print the invoice for an order?",
+                          "onClick": [Function],
+                        },
+                        "ref": null,
+                        "rendered": "How can I view and print the invoice for an order?",
+                        "type": "p",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {},
+                        "ref": null,
+                        "rendered": null,
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "className": "hr hr-full",
+                        },
+                        "ref": null,
+                        "rendered": null,
+                        "type": "hr",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  "type": "div",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <button
+            className="faq-btn btn btn-lg"
+            onClick={[Function]}
+            type="button"
+>
+            Show All Answers
+</button>,
+          <div
+            className="container mt-4"
+            id="k"
+>
+            <div
+                        className="row"
+            >
+                        <div
+                                    className="col-12"
+                        >
+                                    <h5
+                                                className="mb-5"
+                                    >
+                                                Your Order
+                                    </h5>
+                                    <div
+                                                className="container"
+                                    >
+                                                <div
+                                                            className="row"
+                                                >
+                                                            <div
+                                                                        className="col-12"
+                                                            >
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    How do I sign on to begin shopping on Konga?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    Can I buy in bulk?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    Why do I see different prices for the same product?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    How do I save items to view later?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    What is buyer protection?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    What is the estimated delivery time? When can I expect my order to arrive?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    Why does the estimated delivery time vary?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    Who will deliver my Order?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    Will all of the items in my order arrive in a single package?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    My order is shipped. How can I track it?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    How do I cancel an order?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                                        <p
+                                                                                    onClick={[Function]}
+                                                                        >
+                                                                                    How can I view and print the invoice for an order?
+                                                                        </p>
+                                                                        <div />
+                                                                        <hr
+                                                                                    className="hr hr-full"
+                                                                        />
+                                                            </div>
+                                                </div>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Show All Answers",
+            "className": "faq-btn btn btn-lg",
+            "onClick": [Function],
+            "type": "button",
+          },
+          "ref": null,
+          "rendered": "Show All Answers",
+          "type": "button",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="row"
+>
+              <div
+                            className="col-12"
+              >
+                            <h5
+                                          className="mb-5"
+                            >
+                                          Your Order
+                            </h5>
+                            <div
+                                          className="container"
+                            >
+                                          <div
+                                                        className="row"
+                                          >
+                                                        <div
+                                                                      className="col-12"
+                                                        >
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    How do I sign on to begin shopping on Konga?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    Can I buy in bulk?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    Why do I see different prices for the same product?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    How do I save items to view later?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    What is buyer protection?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    What is the estimated delivery time? When can I expect my order to arrive?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    Why does the estimated delivery time vary?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    Who will deliver my Order?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    Will all of the items in my order arrive in a single package?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    My order is shipped. How can I track it?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    How do I cancel an order?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                                      <p
+                                                                                    onClick={[Function]}
+                                                                      >
+                                                                                    How can I view and print the invoice for an order?
+                                                                      </p>
+                                                                      <div />
+                                                                      <hr
+                                                                                    className="hr hr-full"
+                                                                      />
+                                                        </div>
+                                          </div>
+                            </div>
+              </div>
+</div>,
+            "className": "container mt-4",
+            "id": "k",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="col-12"
+>
+                <h5
+                                className="mb-5"
+                >
+                                Your Order
+                </h5>
+                <div
+                                className="container"
+                >
+                                <div
+                                                className="row"
+                                >
+                                                <div
+                                                                className="col-12"
+                                                >
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                How do I sign on to begin shopping on Konga?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                Can I buy in bulk?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                Why do I see different prices for the same product?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                How do I save items to view later?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                What is buyer protection?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                What is the estimated delivery time? When can I expect my order to arrive?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                Why does the estimated delivery time vary?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                Who will deliver my Order?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                Will all of the items in my order arrive in a single package?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                My order is shipped. How can I track it?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                How do I cancel an order?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                                <p
+                                                                                onClick={[Function]}
+                                                                >
+                                                                                How can I view and print the invoice for an order?
+                                                                </p>
+                                                                <div />
+                                                                <hr
+                                                                                className="hr hr-full"
+                                                                />
+                                                </div>
+                                </div>
+                </div>
+</div>,
+              "className": "row",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h5
+                    className="mb-5"
+>
+                    Your Order
+</h5>,
+                  <div
+                    className="container"
+>
+                    <div
+                                        className="row"
+                    >
+                                        <div
+                                                            className="col-12"
+                                        >
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                How do I sign on to begin shopping on Konga?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                Can I buy in bulk?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                Why do I see different prices for the same product?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                How do I save items to view later?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                What is buyer protection?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                What is the estimated delivery time? When can I expect my order to arrive?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                Why does the estimated delivery time vary?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                Who will deliver my Order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                Will all of the items in my order arrive in a single package?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                My order is shipped. How can I track it?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                How do I cancel an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                                            <p
+                                                                                onClick={[Function]}
+                                                            >
+                                                                                How can I view and print the invoice for an order?
+                                                            </p>
+                                                            <div />
+                                                            <hr
+                                                                                className="hr hr-full"
+                                                            />
+                                        </div>
+                    </div>
+</div>,
+                ],
+                "className": "col-12",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Your Order",
+                    "className": "mb-5",
+                  },
+                  "ref": null,
+                  "rendered": "Your Order",
+                  "type": "h5",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <div
+                      className="row"
+>
+                      <div
+                                            className="col-12"
+                      >
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  How do I sign on to begin shopping on Konga?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  Can I buy in bulk?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  Why do I see different prices for the same product?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  How do I save items to view later?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  What is buyer protection?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  What is the estimated delivery time? When can I expect my order to arrive?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  Why does the estimated delivery time vary?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  Who will deliver my Order?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  Will all of the items in my order arrive in a single package?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  My order is shipped. How can I track it?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  How do I cancel an order?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                                            <p
+                                                                  onClick={[Function]}
+                                            >
+                                                                  How can I view and print the invoice for an order?
+                                            </p>
+                                            <div />
+                                            <hr
+                                                                  className="hr hr-full"
+                                            />
+                      </div>
+</div>,
+                    "className": "container",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <div
+                        className="col-12"
+>
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                How do I sign on to begin shopping on Konga?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                Can I buy in bulk?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                Why do I see different prices for the same product?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                How do I save items to view later?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                What is buyer protection?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                What is the estimated delivery time? When can I expect my order to arrive?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                Why does the estimated delivery time vary?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                Who will deliver my Order?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                Will all of the items in my order arrive in a single package?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                My order is shipped. How can I track it?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                How do I cancel an order?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+                        <p
+                                                onClick={[Function]}
+                        >
+                                                How can I view and print the invoice for an order?
+                        </p>
+                        <div />
+                        <hr
+                                                className="hr hr-full"
+                        />
+</div>,
+                      "className": "row",
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <p
+                            onClick={[Function]}
+>
+                            How do I sign on to begin shopping on Konga?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            Can I buy in bulk?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            Why do I see different prices for the same product?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            How do I save items to view later?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            What is buyer protection?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            What is the estimated delivery time? When can I expect my order to arrive?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            Why does the estimated delivery time vary?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            Who will deliver my Order?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            Will all of the items in my order arrive in a single package?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            My order is shipped. How can I track it?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            How do I cancel an order?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                          <p
+                            onClick={[Function]}
+>
+                            How can I view and print the invoice for an order?
+</p>,
+                          <div />,
+                          <hr
+                            className="hr hr-full"
+/>,
+                        ],
+                        "className": "col-12",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "How do I sign on to begin shopping on Konga?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "How do I sign on to begin shopping on Konga?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Can I buy in bulk?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "Can I buy in bulk?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Why do I see different prices for the same product?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "Why do I see different prices for the same product?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "How do I save items to view later?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "How do I save items to view later?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "What is buyer protection?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "What is buyer protection?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "What is the estimated delivery time? When can I expect my order to arrive?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "What is the estimated delivery time? When can I expect my order to arrive?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Why does the estimated delivery time vary?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "Why does the estimated delivery time vary?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Who will deliver my Order?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "Who will deliver my Order?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Will all of the items in my order arrive in a single package?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "Will all of the items in my order arrive in a single package?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "My order is shipped. How can I track it?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "My order is shipped. How can I track it?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "How do I cancel an order?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "How do I cancel an order?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "How can I view and print the invoice for an order?",
+                            "onClick": [Function],
+                          },
+                          "ref": null,
+                          "rendered": "How can I view and print the invoice for an order?",
+                          "type": "p",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {},
+                          "ref": null,
+                          "rendered": null,
+                          "type": "div",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "hr hr-full",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "hr",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    "type": "div",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getSnapshotBeforeUpdate": true,
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;

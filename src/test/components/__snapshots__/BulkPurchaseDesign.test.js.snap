@@ -1,0 +1,2572 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <BulkPurchaseDesign />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="row"
+>
+        <div
+                className="col-12"
+        >
+                <div
+                        className="card mt-4"
+                >
+                        <div
+                                className="card-body mb-7"
+                        >
+                                <p
+                                        className="text-center bd-lead"
+                                >
+                                        These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                                </p>
+                                <h2
+                                        className="text-center mb-5"
+                                >
+                                        Benefit of buying in bulk
+                                </h2>
+                                <div
+                                        className="row"
+                                >
+                                        <div
+                                                className="col-6"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        100% Authentic Products
+                                                </h3>
+                                                <div
+                                                        className="row mb-3"
+                                                >
+                                                        <div
+                                                                className="col-4"
+                                                        />
+                                                        <div
+                                                                className="col-8"
+                                                        >
+                                                                <p>
+                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                </p>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <div
+                                                className="col-6"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        Dedicated Account Manager
+                                                </h3>
+                                                <div
+                                                        className="row"
+                                                >
+                                                        <div
+                                                                className="col-4"
+                                                        />
+                                                        <div
+                                                                className="col-8"
+                                                        >
+                                                                <p>
+                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                </p>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                                <hr
+                                        className="hr"
+                                />
+                                <div
+                                        className="row mt-4"
+                                >
+                                        <div
+                                                className="col-4"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        Discount Prices
+                                                </h3>
+                                                <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                </p>
+                                        </div>
+                                        <div
+                                                className="col-4"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        Shipping & Handling
+                                                </h3>
+                                                <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                </p>
+                                        </div>
+                                        <div
+                                                className="col-4"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        Flexible Payment
+                                                </h3>
+                                                <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                </p>
+                                        </div>
+                                </div>
+                                <hr
+                                        className="hr"
+                                />
+                                <div
+                                        className="row"
+                                >
+                                        <div
+                                                className="col-12"
+                                        >
+                                                <h3
+                                                        className="text-center"
+                                                >
+                                                        Aftersales Support
+                                                </h3>
+                                                <p>
+                                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                </p>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</div>,
+      "className": "container",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="col-12"
+>
+          <div
+                    className="card mt-4"
+          >
+                    <div
+                              className="card-body mb-7"
+                    >
+                              <p
+                                        className="text-center bd-lead"
+                              >
+                                        These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                              </p>
+                              <h2
+                                        className="text-center mb-5"
+                              >
+                                        Benefit of buying in bulk
+                              </h2>
+                              <div
+                                        className="row"
+                              >
+                                        <div
+                                                  className="col-6"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            100% Authentic Products
+                                                  </h3>
+                                                  <div
+                                                            className="row mb-3"
+                                                  >
+                                                            <div
+                                                                      className="col-4"
+                                                            />
+                                                            <div
+                                                                      className="col-8"
+                                                            >
+                                                                      <p>
+                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                      </p>
+                                                            </div>
+                                                  </div>
+                                        </div>
+                                        <div
+                                                  className="col-6"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Dedicated Account Manager
+                                                  </h3>
+                                                  <div
+                                                            className="row"
+                                                  >
+                                                            <div
+                                                                      className="col-4"
+                                                            />
+                                                            <div
+                                                                      className="col-8"
+                                                            >
+                                                                      <p>
+                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                      </p>
+                                                            </div>
+                                                  </div>
+                                        </div>
+                              </div>
+                              <hr
+                                        className="hr"
+                              />
+                              <div
+                                        className="row mt-4"
+                              >
+                                        <div
+                                                  className="col-4"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Discount Prices
+                                                  </h3>
+                                                  <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                  </p>
+                                        </div>
+                                        <div
+                                                  className="col-4"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Shipping & Handling
+                                                  </h3>
+                                                  <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                  </p>
+                                        </div>
+                                        <div
+                                                  className="col-4"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Flexible Payment
+                                                  </h3>
+                                                  <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                  </p>
+                                        </div>
+                              </div>
+                              <hr
+                                        className="hr"
+                              />
+                              <div
+                                        className="row"
+                              >
+                                        <div
+                                                  className="col-12"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Aftersales Support
+                                                  </h3>
+                                                  <p>
+                                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                  </p>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+</div>,
+        "className": "row",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="card mt-4"
+>
+            <div
+                        className="card-body mb-7"
+            >
+                        <p
+                                    className="text-center bd-lead"
+                        >
+                                    These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                        </p>
+                        <h2
+                                    className="text-center mb-5"
+                        >
+                                    Benefit of buying in bulk
+                        </h2>
+                        <div
+                                    className="row"
+                        >
+                                    <div
+                                                className="col-6"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            100% Authentic Products
+                                                </h3>
+                                                <div
+                                                            className="row mb-3"
+                                                >
+                                                            <div
+                                                                        className="col-4"
+                                                            />
+                                                            <div
+                                                                        className="col-8"
+                                                            >
+                                                                        <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                            </div>
+                                                </div>
+                                    </div>
+                                    <div
+                                                className="col-6"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Dedicated Account Manager
+                                                </h3>
+                                                <div
+                                                            className="row"
+                                                >
+                                                            <div
+                                                                        className="col-4"
+                                                            />
+                                                            <div
+                                                                        className="col-8"
+                                                            >
+                                                                        <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                            </div>
+                                                </div>
+                                    </div>
+                        </div>
+                        <hr
+                                    className="hr"
+                        />
+                        <div
+                                    className="row mt-4"
+                        >
+                                    <div
+                                                className="col-4"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Discount Prices
+                                                </h3>
+                                                <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                </p>
+                                    </div>
+                                    <div
+                                                className="col-4"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Shipping & Handling
+                                                </h3>
+                                                <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                </p>
+                                    </div>
+                                    <div
+                                                className="col-4"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Flexible Payment
+                                                </h3>
+                                                <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                </p>
+                                    </div>
+                        </div>
+                        <hr
+                                    className="hr"
+                        />
+                        <div
+                                    className="row"
+                        >
+                                    <div
+                                                className="col-12"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Aftersales Support
+                                                </h3>
+                                                <p>
+                                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                </p>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+          "className": "col-12",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="card-body mb-7"
+>
+              <p
+                            className="text-center bd-lead"
+              >
+                            These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+              </p>
+              <h2
+                            className="text-center mb-5"
+              >
+                            Benefit of buying in bulk
+              </h2>
+              <div
+                            className="row"
+              >
+                            <div
+                                          className="col-6"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        100% Authentic Products
+                                          </h3>
+                                          <div
+                                                        className="row mb-3"
+                                          >
+                                                        <div
+                                                                      className="col-4"
+                                                        />
+                                                        <div
+                                                                      className="col-8"
+                                                        >
+                                                                      <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                      </p>
+                                                        </div>
+                                          </div>
+                            </div>
+                            <div
+                                          className="col-6"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Dedicated Account Manager
+                                          </h3>
+                                          <div
+                                                        className="row"
+                                          >
+                                                        <div
+                                                                      className="col-4"
+                                                        />
+                                                        <div
+                                                                      className="col-8"
+                                                        >
+                                                                      <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                      </p>
+                                                        </div>
+                                          </div>
+                            </div>
+              </div>
+              <hr
+                            className="hr"
+              />
+              <div
+                            className="row mt-4"
+              >
+                            <div
+                                          className="col-4"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Discount Prices
+                                          </h3>
+                                          <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                          </p>
+                            </div>
+                            <div
+                                          className="col-4"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Shipping & Handling
+                                          </h3>
+                                          <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                          </p>
+                            </div>
+                            <div
+                                          className="col-4"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Flexible Payment
+                                          </h3>
+                                          <p>
+                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                          </p>
+                            </div>
+              </div>
+              <hr
+                            className="hr"
+              />
+              <div
+                            className="row"
+              >
+                            <div
+                                          className="col-12"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Aftersales Support
+                                          </h3>
+                                          <p>
+                                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                          </p>
+                            </div>
+              </div>
+</div>,
+            "className": "card mt-4",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <p
+                  className="text-center bd-lead"
+>
+                  These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+</p>,
+                <h2
+                  className="text-center mb-5"
+>
+                  Benefit of buying in bulk
+</h2>,
+                <div
+                  className="row"
+>
+                  <div
+                                    className="col-6"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      100% Authentic Products
+                                    </h3>
+                                    <div
+                                                      className="row mb-3"
+                                    >
+                                                      <div
+                                                                        className="col-4"
+                                                      />
+                                                      <div
+                                                                        className="col-8"
+                                                      >
+                                                                        <p>
+                                                                                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                      </div>
+                                    </div>
+                  </div>
+                  <div
+                                    className="col-6"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      Dedicated Account Manager
+                                    </h3>
+                                    <div
+                                                      className="row"
+                                    >
+                                                      <div
+                                                                        className="col-4"
+                                                      />
+                                                      <div
+                                                                        className="col-8"
+                                                      >
+                                                                        <p>
+                                                                                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                      </div>
+                                    </div>
+                  </div>
+</div>,
+                <hr
+                  className="hr"
+/>,
+                <div
+                  className="row mt-4"
+>
+                  <div
+                                    className="col-4"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      Discount Prices
+                                    </h3>
+                                    <p>
+                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                    </p>
+                  </div>
+                  <div
+                                    className="col-4"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      Shipping & Handling
+                                    </h3>
+                                    <p>
+                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                    </p>
+                  </div>
+                  <div
+                                    className="col-4"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      Flexible Payment
+                                    </h3>
+                                    <p>
+                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                    </p>
+                  </div>
+</div>,
+                <hr
+                  className="hr"
+/>,
+                <div
+                  className="row"
+>
+                  <div
+                                    className="col-12"
+                  >
+                                    <h3
+                                                      className="text-center"
+                                    >
+                                                      Aftersales Support
+                                    </h3>
+                                    <p>
+                                                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                    </p>
+                  </div>
+</div>,
+              ],
+              "className": "card-body mb-7",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities",
+                  "className": "text-center bd-lead",
+                },
+                "ref": null,
+                "rendered": "These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities",
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Benefit of buying in bulk",
+                  "className": "text-center mb-5",
+                },
+                "ref": null,
+                "rendered": "Benefit of buying in bulk",
+                "type": "h2",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <div
+                      className="col-6"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            100% Authentic Products
+                      </h3>
+                      <div
+                                            className="row mb-3"
+                      >
+                                            <div
+                                                                  className="col-4"
+                                            />
+                                            <div
+                                                                  className="col-8"
+                                            >
+                                                                  <p>
+                                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                  </p>
+                                            </div>
+                      </div>
+</div>,
+                    <div
+                      className="col-6"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            Dedicated Account Manager
+                      </h3>
+                      <div
+                                            className="row"
+                      >
+                                            <div
+                                                                  className="col-4"
+                                            />
+                                            <div
+                                                                  className="col-8"
+                                            >
+                                                                  <p>
+                                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                  </p>
+                                            </div>
+                      </div>
+</div>,
+                  ],
+                  "className": "row",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          100% Authentic Products
+</h3>,
+                        <div
+                          className="row mb-3"
+>
+                          <div
+                                                    className="col-4"
+                          />
+                          <div
+                                                    className="col-8"
+                          >
+                                                    <p>
+                                                                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                    </p>
+                          </div>
+</div>,
+                      ],
+                      "className": "col-6",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "100% Authentic Products",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "100% Authentic Products",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <div
+                              className="col-4"
+/>,
+                            <div
+                              className="col-8"
+>
+                              <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                              </p>
+</div>,
+                          ],
+                          "className": "row mb-3",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "className": "col-4",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "div",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+</p>,
+                              "className": "col-8",
+                            },
+                            "ref": null,
+                            "rendered": Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                              },
+                              "ref": null,
+                              "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                              "type": "p",
+                            },
+                            "type": "div",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          Dedicated Account Manager
+</h3>,
+                        <div
+                          className="row"
+>
+                          <div
+                                                    className="col-4"
+                          />
+                          <div
+                                                    className="col-8"
+                          >
+                                                    <p>
+                                                                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                    </p>
+                          </div>
+</div>,
+                      ],
+                      "className": "col-6",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Dedicated Account Manager",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "Dedicated Account Manager",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <div
+                              className="col-4"
+/>,
+                            <div
+                              className="col-8"
+>
+                              <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                              </p>
+</div>,
+                          ],
+                          "className": "row",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "className": "col-4",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "div",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+</p>,
+                              "className": "col-8",
+                            },
+                            "ref": null,
+                            "rendered": Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                              },
+                              "ref": null,
+                              "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                              "type": "p",
+                            },
+                            "type": "div",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                ],
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "hr",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "hr",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <div
+                      className="col-4"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            Discount Prices
+                      </h3>
+                      <p>
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                      </p>
+</div>,
+                    <div
+                      className="col-4"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            Shipping & Handling
+                      </h3>
+                      <p>
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                      </p>
+</div>,
+                    <div
+                      className="col-4"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            Flexible Payment
+                      </h3>
+                      <p>
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                      </p>
+</div>,
+                  ],
+                  "className": "row mt-4",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          Discount Prices
+</h3>,
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+</p>,
+                      ],
+                      "className": "col-4",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Discount Prices",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "Discount Prices",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!",
+                        },
+                        "ref": null,
+                        "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          Shipping & Handling
+</h3>,
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+</p>,
+                      ],
+                      "className": "col-4",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Shipping & Handling",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "Shipping & Handling",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!",
+                        },
+                        "ref": null,
+                        "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          Flexible Payment
+</h3>,
+                        <p>
+                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+</p>,
+                      ],
+                      "className": "col-4",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Flexible Payment",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "Flexible Payment",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?",
+                        },
+                        "ref": null,
+                        "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                ],
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "hr",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "hr",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <div
+                    className="col-12"
+>
+                    <h3
+                                        className="text-center"
+                    >
+                                        Aftersales Support
+                    </h3>
+                    <p>
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                    </p>
+</div>,
+                  "className": "row",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <h3
+                        className="text-center"
+>
+                        Aftersales Support
+</h3>,
+                      <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+</p>,
+                    ],
+                    "className": "col-12",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Aftersales Support",
+                        "className": "text-center",
+                      },
+                      "ref": null,
+                      "rendered": "Aftersales Support",
+                      "type": "h3",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!",
+                      },
+                      "ref": null,
+                      "rendered": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!",
+                      "type": "p",
+                    },
+                  ],
+                  "type": "div",
+                },
+                "type": "div",
+              },
+            ],
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "div",
+      },
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="row"
+>
+          <div
+                    className="col-12"
+          >
+                    <div
+                              className="card mt-4"
+                    >
+                              <div
+                                        className="card-body mb-7"
+                              >
+                                        <p
+                                                  className="text-center bd-lead"
+                                        >
+                                                  These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                                        </p>
+                                        <h2
+                                                  className="text-center mb-5"
+                                        >
+                                                  Benefit of buying in bulk
+                                        </h2>
+                                        <div
+                                                  className="row"
+                                        >
+                                                  <div
+                                                            className="col-6"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      100% Authentic Products
+                                                            </h3>
+                                                            <div
+                                                                      className="row mb-3"
+                                                            >
+                                                                      <div
+                                                                                className="col-4"
+                                                                      />
+                                                                      <div
+                                                                                className="col-8"
+                                                                      >
+                                                                                <p>
+                                                                                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                                      </div>
+                                                            </div>
+                                                  </div>
+                                                  <div
+                                                            className="col-6"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      Dedicated Account Manager
+                                                            </h3>
+                                                            <div
+                                                                      className="row"
+                                                            >
+                                                                      <div
+                                                                                className="col-4"
+                                                                      />
+                                                                      <div
+                                                                                className="col-8"
+                                                                      >
+                                                                                <p>
+                                                                                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                                      </div>
+                                                            </div>
+                                                  </div>
+                                        </div>
+                                        <hr
+                                                  className="hr"
+                                        />
+                                        <div
+                                                  className="row mt-4"
+                                        >
+                                                  <div
+                                                            className="col-4"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      Discount Prices
+                                                            </h3>
+                                                            <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                            </p>
+                                                  </div>
+                                                  <div
+                                                            className="col-4"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      Shipping & Handling
+                                                            </h3>
+                                                            <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                            </p>
+                                                  </div>
+                                                  <div
+                                                            className="col-4"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      Flexible Payment
+                                                            </h3>
+                                                            <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                            </p>
+                                                  </div>
+                                        </div>
+                                        <hr
+                                                  className="hr"
+                                        />
+                                        <div
+                                                  className="row"
+                                        >
+                                                  <div
+                                                            className="col-12"
+                                                  >
+                                                            <h3
+                                                                      className="text-center"
+                                                            >
+                                                                      Aftersales Support
+                                                            </h3>
+                                                            <p>
+                                                                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                            </p>
+                                                  </div>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+</div>,
+        "className": "container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="col-12"
+>
+            <div
+                        className="card mt-4"
+            >
+                        <div
+                                    className="card-body mb-7"
+                        >
+                                    <p
+                                                className="text-center bd-lead"
+                                    >
+                                                These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                                    </p>
+                                    <h2
+                                                className="text-center mb-5"
+                                    >
+                                                Benefit of buying in bulk
+                                    </h2>
+                                    <div
+                                                className="row"
+                                    >
+                                                <div
+                                                            className="col-6"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        100% Authentic Products
+                                                            </h3>
+                                                            <div
+                                                                        className="row mb-3"
+                                                            >
+                                                                        <div
+                                                                                    className="col-4"
+                                                                        />
+                                                                        <div
+                                                                                    className="col-8"
+                                                                        >
+                                                                                    <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                    </p>
+                                                                        </div>
+                                                            </div>
+                                                </div>
+                                                <div
+                                                            className="col-6"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        Dedicated Account Manager
+                                                            </h3>
+                                                            <div
+                                                                        className="row"
+                                                            >
+                                                                        <div
+                                                                                    className="col-4"
+                                                                        />
+                                                                        <div
+                                                                                    className="col-8"
+                                                                        >
+                                                                                    <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                    </p>
+                                                                        </div>
+                                                            </div>
+                                                </div>
+                                    </div>
+                                    <hr
+                                                className="hr"
+                                    />
+                                    <div
+                                                className="row mt-4"
+                                    >
+                                                <div
+                                                            className="col-4"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        Discount Prices
+                                                            </h3>
+                                                            <p>
+                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                            </p>
+                                                </div>
+                                                <div
+                                                            className="col-4"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        Shipping & Handling
+                                                            </h3>
+                                                            <p>
+                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                            </p>
+                                                </div>
+                                                <div
+                                                            className="col-4"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        Flexible Payment
+                                                            </h3>
+                                                            <p>
+                                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                            </p>
+                                                </div>
+                                    </div>
+                                    <hr
+                                                className="hr"
+                                    />
+                                    <div
+                                                className="row"
+                                    >
+                                                <div
+                                                            className="col-12"
+                                                >
+                                                            <h3
+                                                                        className="text-center"
+                                                            >
+                                                                        Aftersales Support
+                                                            </h3>
+                                                            <p>
+                                                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                            </p>
+                                                </div>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+          "className": "row",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="card mt-4"
+>
+              <div
+                            className="card-body mb-7"
+              >
+                            <p
+                                          className="text-center bd-lead"
+                            >
+                                          These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                            </p>
+                            <h2
+                                          className="text-center mb-5"
+                            >
+                                          Benefit of buying in bulk
+                            </h2>
+                            <div
+                                          className="row"
+                            >
+                                          <div
+                                                        className="col-6"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      100% Authentic Products
+                                                        </h3>
+                                                        <div
+                                                                      className="row mb-3"
+                                                        >
+                                                                      <div
+                                                                                    className="col-4"
+                                                                      />
+                                                                      <div
+                                                                                    className="col-8"
+                                                                      >
+                                                                                    <p>
+                                                                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                    </p>
+                                                                      </div>
+                                                        </div>
+                                          </div>
+                                          <div
+                                                        className="col-6"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      Dedicated Account Manager
+                                                        </h3>
+                                                        <div
+                                                                      className="row"
+                                                        >
+                                                                      <div
+                                                                                    className="col-4"
+                                                                      />
+                                                                      <div
+                                                                                    className="col-8"
+                                                                      >
+                                                                                    <p>
+                                                                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                    </p>
+                                                                      </div>
+                                                        </div>
+                                          </div>
+                            </div>
+                            <hr
+                                          className="hr"
+                            />
+                            <div
+                                          className="row mt-4"
+                            >
+                                          <div
+                                                        className="col-4"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      Discount Prices
+                                                        </h3>
+                                                        <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                        </p>
+                                          </div>
+                                          <div
+                                                        className="col-4"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      Shipping & Handling
+                                                        </h3>
+                                                        <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                        </p>
+                                          </div>
+                                          <div
+                                                        className="col-4"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      Flexible Payment
+                                                        </h3>
+                                                        <p>
+                                                                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                        </p>
+                                          </div>
+                            </div>
+                            <hr
+                                          className="hr"
+                            />
+                            <div
+                                          className="row"
+                            >
+                                          <div
+                                                        className="col-12"
+                                          >
+                                                        <h3
+                                                                      className="text-center"
+                                                        >
+                                                                      Aftersales Support
+                                                        </h3>
+                                                        <p>
+                                                                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                        </p>
+                                          </div>
+                            </div>
+              </div>
+</div>,
+            "className": "col-12",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="card-body mb-7"
+>
+                <p
+                                className="text-center bd-lead"
+                >
+                                These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+                </p>
+                <h2
+                                className="text-center mb-5"
+                >
+                                Benefit of buying in bulk
+                </h2>
+                <div
+                                className="row"
+                >
+                                <div
+                                                className="col-6"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                100% Authentic Products
+                                                </h3>
+                                                <div
+                                                                className="row mb-3"
+                                                >
+                                                                <div
+                                                                                className="col-4"
+                                                                />
+                                                                <div
+                                                                                className="col-8"
+                                                                >
+                                                                                <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                                </div>
+                                                </div>
+                                </div>
+                                <div
+                                                className="col-6"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                Dedicated Account Manager
+                                                </h3>
+                                                <div
+                                                                className="row"
+                                                >
+                                                                <div
+                                                                                className="col-4"
+                                                                />
+                                                                <div
+                                                                                className="col-8"
+                                                                >
+                                                                                <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                                </div>
+                                                </div>
+                                </div>
+                </div>
+                <hr
+                                className="hr"
+                />
+                <div
+                                className="row mt-4"
+                >
+                                <div
+                                                className="col-4"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                Discount Prices
+                                                </h3>
+                                                <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                                </p>
+                                </div>
+                                <div
+                                                className="col-4"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                Shipping & Handling
+                                                </h3>
+                                                <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                                </p>
+                                </div>
+                                <div
+                                                className="col-4"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                Flexible Payment
+                                                </h3>
+                                                <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                                </p>
+                                </div>
+                </div>
+                <hr
+                                className="hr"
+                />
+                <div
+                                className="row"
+                >
+                                <div
+                                                className="col-12"
+                                >
+                                                <h3
+                                                                className="text-center"
+                                                >
+                                                                Aftersales Support
+                                                </h3>
+                                                <p>
+                                                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                                </p>
+                                </div>
+                </div>
+</div>,
+              "className": "card mt-4",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <p
+                    className="text-center bd-lead"
+>
+                    These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities
+</p>,
+                  <h2
+                    className="text-center mb-5"
+>
+                    Benefit of buying in bulk
+</h2>,
+                  <div
+                    className="row"
+>
+                    <div
+                                        className="col-6"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            100% Authentic Products
+                                        </h3>
+                                        <div
+                                                            className="row mb-3"
+                                        >
+                                                            <div
+                                                                                className="col-4"
+                                                            />
+                                                            <div
+                                                                                className="col-8"
+                                                            >
+                                                                                <p>
+                                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                            </div>
+                                        </div>
+                    </div>
+                    <div
+                                        className="col-6"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            Dedicated Account Manager
+                                        </h3>
+                                        <div
+                                                            className="row"
+                                        >
+                                                            <div
+                                                                                className="col-4"
+                                                            />
+                                                            <div
+                                                                                className="col-8"
+                                                            >
+                                                                                <p>
+                                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                                </p>
+                                                            </div>
+                                        </div>
+                    </div>
+</div>,
+                  <hr
+                    className="hr"
+/>,
+                  <div
+                    className="row mt-4"
+>
+                    <div
+                                        className="col-4"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            Discount Prices
+                                        </h3>
+                                        <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                                        </p>
+                    </div>
+                    <div
+                                        className="col-4"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            Shipping & Handling
+                                        </h3>
+                                        <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                                        </p>
+                    </div>
+                    <div
+                                        className="col-4"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            Flexible Payment
+                                        </h3>
+                                        <p>
+                                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                                        </p>
+                    </div>
+</div>,
+                  <hr
+                    className="hr"
+/>,
+                  <div
+                    className="row"
+>
+                    <div
+                                        className="col-12"
+                    >
+                                        <h3
+                                                            className="text-center"
+                                        >
+                                                            Aftersales Support
+                                        </h3>
+                                        <p>
+                                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                                        </p>
+                    </div>
+</div>,
+                ],
+                "className": "card-body mb-7",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities",
+                    "className": "text-center bd-lead",
+                  },
+                  "ref": null,
+                  "rendered": "These are deals perfect for Corporate Procurement, Gift Vouchers & Consumer Promotion Activities",
+                  "type": "p",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Benefit of buying in bulk",
+                    "className": "text-center mb-5",
+                  },
+                  "ref": null,
+                  "rendered": "Benefit of buying in bulk",
+                  "type": "h2",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <div
+                        className="col-6"
+>
+                        <h3
+                                                className="text-center"
+                        >
+                                                100% Authentic Products
+                        </h3>
+                        <div
+                                                className="row mb-3"
+                        >
+                                                <div
+                                                                        className="col-4"
+                                                />
+                                                <div
+                                                                        className="col-8"
+                                                >
+                                                                        <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                </div>
+                        </div>
+</div>,
+                      <div
+                        className="col-6"
+>
+                        <h3
+                                                className="text-center"
+                        >
+                                                Dedicated Account Manager
+                        </h3>
+                        <div
+                                                className="row"
+                        >
+                                                <div
+                                                                        className="col-4"
+                                                />
+                                                <div
+                                                                        className="col-8"
+                                                >
+                                                                        <p>
+                                                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                                        </p>
+                                                </div>
+                        </div>
+</div>,
+                    ],
+                    "className": "row",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <h3
+                            className="text-center"
+>
+                            100% Authentic Products
+</h3>,
+                          <div
+                            className="row mb-3"
+>
+                            <div
+                                                        className="col-4"
+                            />
+                            <div
+                                                        className="col-8"
+                            >
+                                                        <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                        </p>
+                            </div>
+</div>,
+                        ],
+                        "className": "col-6",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "100% Authentic Products",
+                            "className": "text-center",
+                          },
+                          "ref": null,
+                          "rendered": "100% Authentic Products",
+                          "type": "h3",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <div
+                                className="col-4"
+/>,
+                              <div
+                                className="col-8"
+>
+                                <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                </p>
+</div>,
+                            ],
+                            "className": "row mb-3",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "className": "col-4",
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "div",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": <p>
+                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+</p>,
+                                "className": "col-8",
+                              },
+                              "ref": null,
+                              "rendered": Object {
+                                "instance": null,
+                                "key": undefined,
+                                "nodeType": "host",
+                                "props": Object {
+                                  "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                                },
+                                "ref": null,
+                                "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                                "type": "p",
+                              },
+                              "type": "div",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <h3
+                            className="text-center"
+>
+                            Dedicated Account Manager
+</h3>,
+                          <div
+                            className="row"
+>
+                            <div
+                                                        className="col-4"
+                            />
+                            <div
+                                                        className="col-8"
+                            >
+                                                        <p>
+                                                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                                        </p>
+                            </div>
+</div>,
+                        ],
+                        "className": "col-6",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Dedicated Account Manager",
+                            "className": "text-center",
+                          },
+                          "ref": null,
+                          "rendered": "Dedicated Account Manager",
+                          "type": "h3",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": Array [
+                              <div
+                                className="col-4"
+/>,
+                              <div
+                                className="col-8"
+>
+                                <p>
+                                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+                                </p>
+</div>,
+                            ],
+                            "className": "row",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "className": "col-4",
+                              },
+                              "ref": null,
+                              "rendered": null,
+                              "type": "div",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": <p>
+                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?
+</p>,
+                                "className": "col-8",
+                              },
+                              "ref": null,
+                              "rendered": Object {
+                                "instance": null,
+                                "key": undefined,
+                                "nodeType": "host",
+                                "props": Object {
+                                  "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                                },
+                                "ref": null,
+                                "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione minima provident eos ex, tenetur, et voluptatum maiores libero illum reprehenderit quos expedita minus eveniet quibusdam asperiores eius aspernatur culpa quam?",
+                                "type": "p",
+                              },
+                              "type": "div",
+                            },
+                          ],
+                          "type": "div",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "className": "hr",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "hr",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <div
+                        className="col-4"
+>
+                        <h3
+                                                className="text-center"
+                        >
+                                                Discount Prices
+                        </h3>
+                        <p>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+                        </p>
+</div>,
+                      <div
+                        className="col-4"
+>
+                        <h3
+                                                className="text-center"
+                        >
+                                                Shipping & Handling
+                        </h3>
+                        <p>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+                        </p>
+</div>,
+                      <div
+                        className="col-4"
+>
+                        <h3
+                                                className="text-center"
+                        >
+                                                Flexible Payment
+                        </h3>
+                        <p>
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+                        </p>
+</div>,
+                    ],
+                    "className": "row mt-4",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <h3
+                            className="text-center"
+>
+                            Discount Prices
+</h3>,
+                          <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!
+</p>,
+                        ],
+                        "className": "col-4",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Discount Prices",
+                            "className": "text-center",
+                          },
+                          "ref": null,
+                          "rendered": "Discount Prices",
+                          "type": "h3",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!",
+                          },
+                          "ref": null,
+                          "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam magnam sapiente reprehenderit, non molestias ipsa saepe odio accusamus tempora nesciunt, sed maxime voluptatibus unde dolorum ea iste, velit numquam repellendus!",
+                          "type": "p",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <h3
+                            className="text-center"
+>
+                            Shipping & Handling
+</h3>,
+                          <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!
+</p>,
+                        ],
+                        "className": "col-4",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Shipping & Handling",
+                            "className": "text-center",
+                          },
+                          "ref": null,
+                          "rendered": "Shipping & Handling",
+                          "type": "h3",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!",
+                          },
+                          "ref": null,
+                          "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veritatis, facere, maxime, minima nemo eius pariatur soluta dolorem beatae blanditiis alias qui. Facilis, excepturi saepe ipsa quisquam quidem tempora repellat!",
+                          "type": "p",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <h3
+                            className="text-center"
+>
+                            Flexible Payment
+</h3>,
+                          <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?
+</p>,
+                        ],
+                        "className": "col-4",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Flexible Payment",
+                            "className": "text-center",
+                          },
+                          "ref": null,
+                          "rendered": "Flexible Payment",
+                          "type": "h3",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?",
+                          },
+                          "ref": null,
+                          "rendered": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, tempore iusto? In, animi odio! Necessitatibus id fugiat aut. Hic, explicabo odit. Facere maiores quidem eligendi totam veniam rem maxime. Commodi?",
+                          "type": "p",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                  ],
+                  "type": "div",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "className": "hr",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "hr",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <div
+                      className="col-12"
+>
+                      <h3
+                                            className="text-center"
+                      >
+                                            Aftersales Support
+                      </h3>
+                      <p>
+                                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+                      </p>
+</div>,
+                    "className": "row",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <h3
+                          className="text-center"
+>
+                          Aftersales Support
+</h3>,
+                        <p>
+                          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!
+</p>,
+                      ],
+                      "className": "col-12",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Aftersales Support",
+                          "className": "text-center",
+                        },
+                        "ref": null,
+                        "rendered": "Aftersales Support",
+                        "type": "h3",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!",
+                        },
+                        "ref": null,
+                        "rendered": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta itaque voluptates enim nobis, cumque id nam natus aliquam, error magni perferendis nesciunt mollitia culpa minus voluptate quaerat, velit commodi fugiat!",
+                        "type": "p",
+                      },
+                    ],
+                    "type": "div",
+                  },
+                  "type": "div",
+                },
+              ],
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getSnapshotBeforeUpdate": true,
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;

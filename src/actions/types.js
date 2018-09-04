@@ -1,0 +1,10 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const AUTH_LOGIN_USER_REQUEST = 'AUTH_LOGIN_USER_REQUEST';
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const FETCH_USER = 'FETCH_USER'
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const FETCH_PRODUCT = 'FETCH_PRODUCT';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';

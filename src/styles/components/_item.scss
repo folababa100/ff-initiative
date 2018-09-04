@@ -1,0 +1,241 @@
+.stat {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.hr-adjust {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h4 {
+  font-size: 1rem;
+}
+
+.faq-p {
+  font-family: initial;
+  font-weight: 100;
+  font-size: 0.9rem;
+}
+
+.mb-7 {
+  margin-bottom: 4rem;
+}
+
+.hr {
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+  width: 95%;
+}
+
+.hr-full {
+  width: 100%;
+}
+
+.fixed-action {
+  position: fixed;
+  margin-left: 72rem;
+  margin-top: 22rem;
+}
+
+.btn-floating {
+  outline: none;
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  background-color: $butercup;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+  vertical-align: middle;
+  transition: background-color .3s;
+  z-index: 1;
+  position: relative;
+  border: none;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-floating:hover {
+  color: white;
+  text-decoration: none;
+  background-color: darken($color: $butercup, $amount: 15%);
+  border-color: darken($color: $butercup, $amount: 15%);
+}
+
+.btn-floating:active {
+  color: white;
+  text-decoration: none;
+  background-color: darken($color: $butercup, $amount: 15%);
+  border-color: darken($color: $butercup, $amount: 15%);
+}
+
+.btn-floating:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(251, 232, 110, 0.73);
+}
+
+.light {
+  color: white;
+}
+
+.snorkel-blue__color {
+  color: $snorkel-blue;
+}
+
+.brand-adjust {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-adjust {
+  padding: 0.1rem 1rem;
+}
+
+.line-adjust {
+  line-height: 2;
+}
+
+.navbar-adjust-all {
+  padding: 0.4rem 1rem;
+}
+
+.x3 {
+  font-size: 2rem;
+}
+
+.round {
+  height: 3rem;
+  width: 3rem;
+  background-color: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.round:hover {
+  background-color: darken($color: white, $amount: 20%)
+}
+
+.light-weight {
+  font-weight: 200;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.bd-lead {
+  font-size: 1.3rem;
+  font-weight: 200;
+}
+
+.btn:focus {
+  outline: 0;
+  background-color: $serenity;
+  background-image: none;
+  border-color: $serenity;
+  box-shadow: 0 0 0 0.2rem rgba(181, 196, 223, 0.34);
+  color: black;
+}
+
+.btn {
+  background-color: transparent;
+  background-image: none;
+  border-color: $serenity;
+  color: $serenity;
+}
+
+.btn:hover {
+  background-color: $serenity;
+  color: black;
+}
+
+.btn:active {
+  background-color: $serenity;
+  color: black;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(181, 196, 223, 0.34);
+}
+
+.nav-brand {
+  background-color: #5eacd0 !important;
+}
+
+.aa {
+  color: white;
+  text-decoration: none;
+}
+
+.aa:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.stat--time {
+  padding-right: 15px;
+  margin-top: $size;
+  margin-bottom: $size;
+}
+
+.post--title {
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+.post--body {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.a {
+  color: black;
+  font-weight: 500;
+  width: 89%;
+}
+
+.a:hover {
+  color: black;
+}
+
+.error {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.mt {
+  margin-top: 2rem !important;
+}
+
+.no-radius {
+  border-radius: 0px;
+}
+
+.card--adjust {
+  height: 32rem;
+}
+
+.btn-radius {
+  width: 4rem;
+  border-radius: 2rem;
+  height: 4rem;
+}
+
+.faq-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  width: 23rem;
+  height: 4rem;
+  background-color: $serenity;
+  color: black;
+}
+
+.faq-btn:hover {
+  background-color: white;
+}

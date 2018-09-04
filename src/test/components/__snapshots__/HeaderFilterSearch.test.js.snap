@@ -1,0 +1,1742 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render component correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <HeaderFilterSearch />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <nav
+          className="navbar navbar-adjust navbar-expand-lg navbar-dark snorkel-blue nav-border"
+>
+          <div
+                    className="container"
+          >
+                    <div
+                              className="row"
+                    >
+                              <div
+                                        className="auto-auto"
+                              >
+                                        <div
+                                                  className="collapse navbar-collapse"
+                                                  id="navbarNav"
+                                        >
+                                                  <ul
+                                                            className="navbar-nav"
+                                                  >
+                                                            <li
+                                                                      className="nav-item"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Phones & Tablets
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Computer & Accessories
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Electronics
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Fashion
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Home & Kitchen
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Baby, Kids & Toys
+                                                                      </div>
+                                                            </li>
+                                                            <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                            >
+                                                                      <div
+                                                                                className="nav-link cursor"
+                                                                      >
+                                                                                Wine & Other Categories
+                                                                      </div>
+                                                            </li>
+                                                  </ul>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+</nav>,
+        undefined,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="container"
+>
+            <div
+                        className="row"
+            >
+                        <div
+                                    className="auto-auto"
+                        >
+                                    <div
+                                                className="collapse navbar-collapse"
+                                                id="navbarNav"
+                                    >
+                                                <ul
+                                                            className="navbar-nav"
+                                                >
+                                                            <li
+                                                                        className="nav-item"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Phones & Tablets
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Computer & Accessories
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Electronics
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Fashion
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Home & Kitchen
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Baby, Kids & Toys
+                                                                        </div>
+                                                            </li>
+                                                            <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                            >
+                                                                        <div
+                                                                                    className="nav-link cursor"
+                                                                        >
+                                                                                    Wine & Other Categories
+                                                                        </div>
+                                                            </li>
+                                                </ul>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+          "className": "navbar navbar-adjust navbar-expand-lg navbar-dark snorkel-blue nav-border",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="row"
+>
+              <div
+                            className="auto-auto"
+              >
+                            <div
+                                          className="collapse navbar-collapse"
+                                          id="navbarNav"
+                            >
+                                          <ul
+                                                        className="navbar-nav"
+                                          >
+                                                        <li
+                                                                      className="nav-item"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Phones & Tablets
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Computer & Accessories
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Electronics
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Fashion
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Home & Kitchen
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Baby, Kids & Toys
+                                                                      </div>
+                                                        </li>
+                                                        <li
+                                                                      className="nav-item ml-6"
+                                                                      onMouseEnter={[Function]}
+                                                        >
+                                                                      <div
+                                                                                    className="nav-link cursor"
+                                                                      >
+                                                                                    Wine & Other Categories
+                                                                      </div>
+                                                        </li>
+                                          </ul>
+                            </div>
+              </div>
+</div>,
+            "className": "container",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="auto-auto"
+>
+                <div
+                                className="collapse navbar-collapse"
+                                id="navbarNav"
+                >
+                                <ul
+                                                className="navbar-nav"
+                                >
+                                                <li
+                                                                className="nav-item"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Phones & Tablets
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Computer & Accessories
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Electronics
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Fashion
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Home & Kitchen
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Baby, Kids & Toys
+                                                                </div>
+                                                </li>
+                                                <li
+                                                                className="nav-item ml-6"
+                                                                onMouseEnter={[Function]}
+                                                >
+                                                                <div
+                                                                                className="nav-link cursor"
+                                                                >
+                                                                                Wine & Other Categories
+                                                                </div>
+                                                </li>
+                                </ul>
+                </div>
+</div>,
+              "className": "row",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <div
+                  className="collapse navbar-collapse"
+                  id="navbarNav"
+>
+                  <ul
+                                    className="navbar-nav"
+                  >
+                                    <li
+                                                      className="nav-item"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Phones & Tablets
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Computer & Accessories
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Electronics
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Fashion
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Home & Kitchen
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Baby, Kids & Toys
+                                                      </div>
+                                    </li>
+                                    <li
+                                                      className="nav-item ml-6"
+                                                      onMouseEnter={[Function]}
+                                    >
+                                                      <div
+                                                                        className="nav-link cursor"
+                                                      >
+                                                                        Wine & Other Categories
+                                                      </div>
+                                    </li>
+                  </ul>
+</div>,
+                "className": "auto-auto",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <ul
+                    className="navbar-nav"
+>
+                    <li
+                                        className="nav-item"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Phones & Tablets
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Computer & Accessories
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Electronics
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Fashion
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Home & Kitchen
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Baby, Kids & Toys
+                                        </div>
+                    </li>
+                    <li
+                                        className="nav-item ml-6"
+                                        onMouseEnter={[Function]}
+                    >
+                                        <div
+                                                            className="nav-link cursor"
+                                        >
+                                                            Wine & Other Categories
+                                        </div>
+                    </li>
+</ul>,
+                  "className": "collapse navbar-collapse",
+                  "id": "navbarNav",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <li
+                        className="nav-item"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Phones & Tablets
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Computer & Accessories
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Electronics
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Fashion
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Home & Kitchen
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Baby, Kids & Toys
+                        </div>
+</li>,
+                      <li
+                        className="nav-item ml-6"
+                        onMouseEnter={[Function]}
+>
+                        <div
+                                                className="nav-link cursor"
+                        >
+                                                Wine & Other Categories
+                        </div>
+</li>,
+                    ],
+                    "className": "navbar-nav",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Phones & Tablets
+</div>,
+                        "className": "nav-item",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Phones & Tablets",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Phones & Tablets",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Computer & Accessories
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Computer & Accessories",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Computer & Accessories",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Electronics
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Electronics",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Electronics",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Fashion
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Fashion",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Fashion",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Home & Kitchen
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Home & Kitchen",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Home & Kitchen",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Baby, Kids & Toys
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Baby, Kids & Toys",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Baby, Kids & Toys",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": <div
+                          className="nav-link cursor"
+>
+                          Wine & Other Categories
+</div>,
+                        "className": "nav-item ml-6",
+                        "onMouseEnter": [Function],
+                      },
+                      "ref": null,
+                      "rendered": Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Wine & Other Categories",
+                          "className": "nav-link cursor",
+                        },
+                        "ref": null,
+                        "rendered": "Wine & Other Categories",
+                        "type": "div",
+                      },
+                      "type": "li",
+                    },
+                  ],
+                  "type": "ul",
+                },
+                "type": "div",
+              },
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "nav",
+      },
+      undefined,
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <nav
+            className="navbar navbar-adjust navbar-expand-lg navbar-dark snorkel-blue nav-border"
+>
+            <div
+                        className="container"
+            >
+                        <div
+                                    className="row"
+                        >
+                                    <div
+                                                className="auto-auto"
+                                    >
+                                                <div
+                                                            className="collapse navbar-collapse"
+                                                            id="navbarNav"
+                                                >
+                                                            <ul
+                                                                        className="navbar-nav"
+                                                            >
+                                                                        <li
+                                                                                    className="nav-item"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Phones & Tablets
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Computer & Accessories
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Electronics
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Fashion
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Home & Kitchen
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Baby, Kids & Toys
+                                                                                    </div>
+                                                                        </li>
+                                                                        <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                        >
+                                                                                    <div
+                                                                                                className="nav-link cursor"
+                                                                                    >
+                                                                                                Wine & Other Categories
+                                                                                    </div>
+                                                                        </li>
+                                                            </ul>
+                                                </div>
+                                    </div>
+                        </div>
+            </div>
+</nav>,
+          undefined,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="container"
+>
+              <div
+                            className="row"
+              >
+                            <div
+                                          className="auto-auto"
+                            >
+                                          <div
+                                                        className="collapse navbar-collapse"
+                                                        id="navbarNav"
+                                          >
+                                                        <ul
+                                                                      className="navbar-nav"
+                                                        >
+                                                                      <li
+                                                                                    className="nav-item"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Phones & Tablets
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Computer & Accessories
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Electronics
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Fashion
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Home & Kitchen
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Baby, Kids & Toys
+                                                                                    </div>
+                                                                      </li>
+                                                                      <li
+                                                                                    className="nav-item ml-6"
+                                                                                    onMouseEnter={[Function]}
+                                                                      >
+                                                                                    <div
+                                                                                                  className="nav-link cursor"
+                                                                                    >
+                                                                                                  Wine & Other Categories
+                                                                                    </div>
+                                                                      </li>
+                                                        </ul>
+                                          </div>
+                            </div>
+              </div>
+</div>,
+            "className": "navbar navbar-adjust navbar-expand-lg navbar-dark snorkel-blue nav-border",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="row"
+>
+                <div
+                                className="auto-auto"
+                >
+                                <div
+                                                className="collapse navbar-collapse"
+                                                id="navbarNav"
+                                >
+                                                <ul
+                                                                className="navbar-nav"
+                                                >
+                                                                <li
+                                                                                className="nav-item"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Phones & Tablets
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Computer & Accessories
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Electronics
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Fashion
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Home & Kitchen
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Baby, Kids & Toys
+                                                                                </div>
+                                                                </li>
+                                                                <li
+                                                                                className="nav-item ml-6"
+                                                                                onMouseEnter={[Function]}
+                                                                >
+                                                                                <div
+                                                                                                className="nav-link cursor"
+                                                                                >
+                                                                                                Wine & Other Categories
+                                                                                </div>
+                                                                </li>
+                                                </ul>
+                                </div>
+                </div>
+</div>,
+              "className": "container",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <div
+                  className="auto-auto"
+>
+                  <div
+                                    className="collapse navbar-collapse"
+                                    id="navbarNav"
+                  >
+                                    <ul
+                                                      className="navbar-nav"
+                                    >
+                                                      <li
+                                                                        className="nav-item"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Phones & Tablets
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Computer & Accessories
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Electronics
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Fashion
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Home & Kitchen
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Baby, Kids & Toys
+                                                                        </div>
+                                                      </li>
+                                                      <li
+                                                                        className="nav-item ml-6"
+                                                                        onMouseEnter={[Function]}
+                                                      >
+                                                                        <div
+                                                                                          className="nav-link cursor"
+                                                                        >
+                                                                                          Wine & Other Categories
+                                                                        </div>
+                                                      </li>
+                                    </ul>
+                  </div>
+</div>,
+                "className": "row",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <div
+                    className="collapse navbar-collapse"
+                    id="navbarNav"
+>
+                    <ul
+                                        className="navbar-nav"
+                    >
+                                        <li
+                                                            className="nav-item"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Phones & Tablets
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Computer & Accessories
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Electronics
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Fashion
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Home & Kitchen
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Baby, Kids & Toys
+                                                            </div>
+                                        </li>
+                                        <li
+                                                            className="nav-item ml-6"
+                                                            onMouseEnter={[Function]}
+                                        >
+                                                            <div
+                                                                                className="nav-link cursor"
+                                                            >
+                                                                                Wine & Other Categories
+                                                            </div>
+                                        </li>
+                    </ul>
+</div>,
+                  "className": "auto-auto",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <ul
+                      className="navbar-nav"
+>
+                      <li
+                                            className="nav-item"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Phones & Tablets
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Computer & Accessories
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Electronics
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Fashion
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Home & Kitchen
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Baby, Kids & Toys
+                                            </div>
+                      </li>
+                      <li
+                                            className="nav-item ml-6"
+                                            onMouseEnter={[Function]}
+                      >
+                                            <div
+                                                                  className="nav-link cursor"
+                                            >
+                                                                  Wine & Other Categories
+                                            </div>
+                      </li>
+</ul>,
+                    "className": "collapse navbar-collapse",
+                    "id": "navbarNav",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <li
+                          className="nav-item"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Phones & Tablets
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Computer & Accessories
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Electronics
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Fashion
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Home & Kitchen
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Baby, Kids & Toys
+                          </div>
+</li>,
+                        <li
+                          className="nav-item ml-6"
+                          onMouseEnter={[Function]}
+>
+                          <div
+                                                    className="nav-link cursor"
+                          >
+                                                    Wine & Other Categories
+                          </div>
+</li>,
+                      ],
+                      "className": "navbar-nav",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Phones & Tablets
+</div>,
+                          "className": "nav-item",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Phones & Tablets",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Phones & Tablets",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Computer & Accessories
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Computer & Accessories",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Computer & Accessories",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Electronics
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Electronics",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Electronics",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Fashion
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Fashion",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Fashion",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Home & Kitchen
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Home & Kitchen",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Home & Kitchen",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Baby, Kids & Toys
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Baby, Kids & Toys",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Baby, Kids & Toys",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": <div
+                            className="nav-link cursor"
+>
+                            Wine & Other Categories
+</div>,
+                          "className": "nav-item ml-6",
+                          "onMouseEnter": [Function],
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Wine & Other Categories",
+                            "className": "nav-link cursor",
+                          },
+                          "ref": null,
+                          "rendered": "Wine & Other Categories",
+                          "type": "div",
+                        },
+                        "type": "li",
+                      },
+                    ],
+                    "type": "ul",
+                  },
+                  "type": "div",
+                },
+                "type": "div",
+              },
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "nav",
+        },
+        undefined,
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getSnapshotBeforeUpdate": true,
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;

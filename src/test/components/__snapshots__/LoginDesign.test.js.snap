@@ -1,0 +1,1158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should correctly render LoginPage 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <LoginDesign />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="container"
+>
+        <div
+                className="row justify-content-center"
+        >
+                <div
+                        className="col-12 col-sm-8 col-md-6 col-lg-3"
+                >
+                        <div
+                                className="card"
+                        >
+                                <div
+                                        className="card-body"
+                                >
+                                        <h3
+                                                className="text-center"
+                                        >
+                                                Login
+                                        </h3>
+                                        <form
+                                                className="mt-4"
+                                        >
+                                                <div
+                                                        className="form-group"
+                                                >
+                                                        <label
+                                                                htmlFor="Email1"
+                                                        >
+                                                                Email address
+                                                        </label>
+                                                        <input
+                                                                className="form-control"
+                                                                id="Email1"
+                                                                placeholder="Enter your email"
+                                                                type="text"
+                                                        />
+                                                </div>
+                                                <div
+                                                        className="form-group"
+                                                >
+                                                        <label
+                                                                htmlFor="Password1"
+                                                        >
+                                                                Password
+                                                        </label>
+                                                        <input
+                                                                className="form-control"
+                                                                id="Password1"
+                                                                placeholder="Enter your password"
+                                                                type="password"
+                                                        />
+                                                </div>
+                                                <button
+                                                        className="btn btn-primary btn-block"
+                                                >
+                                                        Submit
+                                                </button>
+                                        </form>
+                                </div>
+                        </div>
+                </div>
+        </div>
+</div>,
+      "className": "box-layout",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="row justify-content-center"
+>
+          <div
+                    className="col-12 col-sm-8 col-md-6 col-lg-3"
+          >
+                    <div
+                              className="card"
+                    >
+                              <div
+                                        className="card-body"
+                              >
+                                        <h3
+                                                  className="text-center"
+                                        >
+                                                  Login
+                                        </h3>
+                                        <form
+                                                  className="mt-4"
+                                        >
+                                                  <div
+                                                            className="form-group"
+                                                  >
+                                                            <label
+                                                                      htmlFor="Email1"
+                                                            >
+                                                                      Email address
+                                                            </label>
+                                                            <input
+                                                                      className="form-control"
+                                                                      id="Email1"
+                                                                      placeholder="Enter your email"
+                                                                      type="text"
+                                                            />
+                                                  </div>
+                                                  <div
+                                                            className="form-group"
+                                                  >
+                                                            <label
+                                                                      htmlFor="Password1"
+                                                            >
+                                                                      Password
+                                                            </label>
+                                                            <input
+                                                                      className="form-control"
+                                                                      id="Password1"
+                                                                      placeholder="Enter your password"
+                                                                      type="password"
+                                                            />
+                                                  </div>
+                                                  <button
+                                                            className="btn btn-primary btn-block"
+                                                  >
+                                                            Submit
+                                                  </button>
+                                        </form>
+                              </div>
+                    </div>
+          </div>
+</div>,
+        "className": "container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="col-12 col-sm-8 col-md-6 col-lg-3"
+>
+            <div
+                        className="card"
+            >
+                        <div
+                                    className="card-body"
+                        >
+                                    <h3
+                                                className="text-center"
+                                    >
+                                                Login
+                                    </h3>
+                                    <form
+                                                className="mt-4"
+                                    >
+                                                <div
+                                                            className="form-group"
+                                                >
+                                                            <label
+                                                                        htmlFor="Email1"
+                                                            >
+                                                                        Email address
+                                                            </label>
+                                                            <input
+                                                                        className="form-control"
+                                                                        id="Email1"
+                                                                        placeholder="Enter your email"
+                                                                        type="text"
+                                                            />
+                                                </div>
+                                                <div
+                                                            className="form-group"
+                                                >
+                                                            <label
+                                                                        htmlFor="Password1"
+                                                            >
+                                                                        Password
+                                                            </label>
+                                                            <input
+                                                                        className="form-control"
+                                                                        id="Password1"
+                                                                        placeholder="Enter your password"
+                                                                        type="password"
+                                                            />
+                                                </div>
+                                                <button
+                                                            className="btn btn-primary btn-block"
+                                                >
+                                                            Submit
+                                                </button>
+                                    </form>
+                        </div>
+            </div>
+</div>,
+          "className": "row justify-content-center",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="card"
+>
+              <div
+                            className="card-body"
+              >
+                            <h3
+                                          className="text-center"
+                            >
+                                          Login
+                            </h3>
+                            <form
+                                          className="mt-4"
+                            >
+                                          <div
+                                                        className="form-group"
+                                          >
+                                                        <label
+                                                                      htmlFor="Email1"
+                                                        >
+                                                                      Email address
+                                                        </label>
+                                                        <input
+                                                                      className="form-control"
+                                                                      id="Email1"
+                                                                      placeholder="Enter your email"
+                                                                      type="text"
+                                                        />
+                                          </div>
+                                          <div
+                                                        className="form-group"
+                                          >
+                                                        <label
+                                                                      htmlFor="Password1"
+                                                        >
+                                                                      Password
+                                                        </label>
+                                                        <input
+                                                                      className="form-control"
+                                                                      id="Password1"
+                                                                      placeholder="Enter your password"
+                                                                      type="password"
+                                                        />
+                                          </div>
+                                          <button
+                                                        className="btn btn-primary btn-block"
+                                          >
+                                                        Submit
+                                          </button>
+                            </form>
+              </div>
+</div>,
+            "className": "col-12 col-sm-8 col-md-6 col-lg-3",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="card-body"
+>
+                <h3
+                                className="text-center"
+                >
+                                Login
+                </h3>
+                <form
+                                className="mt-4"
+                >
+                                <div
+                                                className="form-group"
+                                >
+                                                <label
+                                                                htmlFor="Email1"
+                                                >
+                                                                Email address
+                                                </label>
+                                                <input
+                                                                className="form-control"
+                                                                id="Email1"
+                                                                placeholder="Enter your email"
+                                                                type="text"
+                                                />
+                                </div>
+                                <div
+                                                className="form-group"
+                                >
+                                                <label
+                                                                htmlFor="Password1"
+                                                >
+                                                                Password
+                                                </label>
+                                                <input
+                                                                className="form-control"
+                                                                id="Password1"
+                                                                placeholder="Enter your password"
+                                                                type="password"
+                                                />
+                                </div>
+                                <button
+                                                className="btn btn-primary btn-block"
+                                >
+                                                Submit
+                                </button>
+                </form>
+</div>,
+              "className": "card",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <h3
+                    className="text-center"
+>
+                    Login
+</h3>,
+                  <form
+                    className="mt-4"
+>
+                    <div
+                                        className="form-group"
+                    >
+                                        <label
+                                                            htmlFor="Email1"
+                                        >
+                                                            Email address
+                                        </label>
+                                        <input
+                                                            className="form-control"
+                                                            id="Email1"
+                                                            placeholder="Enter your email"
+                                                            type="text"
+                                        />
+                    </div>
+                    <div
+                                        className="form-group"
+                    >
+                                        <label
+                                                            htmlFor="Password1"
+                                        >
+                                                            Password
+                                        </label>
+                                        <input
+                                                            className="form-control"
+                                                            id="Password1"
+                                                            placeholder="Enter your password"
+                                                            type="password"
+                                        />
+                    </div>
+                    <button
+                                        className="btn btn-primary btn-block"
+                    >
+                                        Submit
+                    </button>
+</form>,
+                ],
+                "className": "card-body",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Login",
+                    "className": "text-center",
+                  },
+                  "ref": null,
+                  "rendered": "Login",
+                  "type": "h3",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": Array [
+                      <div
+                        className="form-group"
+>
+                        <label
+                                                htmlFor="Email1"
+                        >
+                                                Email address
+                        </label>
+                        <input
+                                                className="form-control"
+                                                id="Email1"
+                                                placeholder="Enter your email"
+                                                type="text"
+                        />
+</div>,
+                      <div
+                        className="form-group"
+>
+                        <label
+                                                htmlFor="Password1"
+                        >
+                                                Password
+                        </label>
+                        <input
+                                                className="form-control"
+                                                id="Password1"
+                                                placeholder="Enter your password"
+                                                type="password"
+                        />
+</div>,
+                      <button
+                        className="btn btn-primary btn-block"
+>
+                        Submit
+</button>,
+                    ],
+                    "className": "mt-4",
+                  },
+                  "ref": null,
+                  "rendered": Array [
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <label
+                            htmlFor="Email1"
+>
+                            Email address
+</label>,
+                          <input
+                            className="form-control"
+                            id="Email1"
+                            placeholder="Enter your email"
+                            type="text"
+/>,
+                        ],
+                        "className": "form-group",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Email address",
+                            "htmlFor": "Email1",
+                          },
+                          "ref": null,
+                          "rendered": "Email address",
+                          "type": "label",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "form-control",
+                            "id": "Email1",
+                            "placeholder": "Enter your email",
+                            "type": "text",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "input",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <label
+                            htmlFor="Password1"
+>
+                            Password
+</label>,
+                          <input
+                            className="form-control"
+                            id="Password1"
+                            placeholder="Enter your password"
+                            type="password"
+/>,
+                        ],
+                        "className": "form-group",
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "children": "Password",
+                            "htmlFor": "Password1",
+                          },
+                          "ref": null,
+                          "rendered": "Password",
+                          "type": "label",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "className": "form-control",
+                            "id": "Password1",
+                            "placeholder": "Enter your password",
+                            "type": "password",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "input",
+                        },
+                      ],
+                      "type": "div",
+                    },
+                    Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": "Submit",
+                        "className": "btn btn-primary btn-block",
+                      },
+                      "ref": null,
+                      "rendered": "Submit",
+                      "type": "button",
+                    },
+                  ],
+                  "type": "form",
+                },
+              ],
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "div",
+      },
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="container"
+>
+          <div
+                    className="row justify-content-center"
+          >
+                    <div
+                              className="col-12 col-sm-8 col-md-6 col-lg-3"
+                    >
+                              <div
+                                        className="card"
+                              >
+                                        <div
+                                                  className="card-body"
+                                        >
+                                                  <h3
+                                                            className="text-center"
+                                                  >
+                                                            Login
+                                                  </h3>
+                                                  <form
+                                                            className="mt-4"
+                                                  >
+                                                            <div
+                                                                      className="form-group"
+                                                            >
+                                                                      <label
+                                                                                htmlFor="Email1"
+                                                                      >
+                                                                                Email address
+                                                                      </label>
+                                                                      <input
+                                                                                className="form-control"
+                                                                                id="Email1"
+                                                                                placeholder="Enter your email"
+                                                                                type="text"
+                                                                      />
+                                                            </div>
+                                                            <div
+                                                                      className="form-group"
+                                                            >
+                                                                      <label
+                                                                                htmlFor="Password1"
+                                                                      >
+                                                                                Password
+                                                                      </label>
+                                                                      <input
+                                                                                className="form-control"
+                                                                                id="Password1"
+                                                                                placeholder="Enter your password"
+                                                                                type="password"
+                                                                      />
+                                                            </div>
+                                                            <button
+                                                                      className="btn btn-primary btn-block"
+                                                            >
+                                                                      Submit
+                                                            </button>
+                                                  </form>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+</div>,
+        "className": "box-layout",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="row justify-content-center"
+>
+            <div
+                        className="col-12 col-sm-8 col-md-6 col-lg-3"
+            >
+                        <div
+                                    className="card"
+                        >
+                                    <div
+                                                className="card-body"
+                                    >
+                                                <h3
+                                                            className="text-center"
+                                                >
+                                                            Login
+                                                </h3>
+                                                <form
+                                                            className="mt-4"
+                                                >
+                                                            <div
+                                                                        className="form-group"
+                                                            >
+                                                                        <label
+                                                                                    htmlFor="Email1"
+                                                                        >
+                                                                                    Email address
+                                                                        </label>
+                                                                        <input
+                                                                                    className="form-control"
+                                                                                    id="Email1"
+                                                                                    placeholder="Enter your email"
+                                                                                    type="text"
+                                                                        />
+                                                            </div>
+                                                            <div
+                                                                        className="form-group"
+                                                            >
+                                                                        <label
+                                                                                    htmlFor="Password1"
+                                                                        >
+                                                                                    Password
+                                                                        </label>
+                                                                        <input
+                                                                                    className="form-control"
+                                                                                    id="Password1"
+                                                                                    placeholder="Enter your password"
+                                                                                    type="password"
+                                                                        />
+                                                            </div>
+                                                            <button
+                                                                        className="btn btn-primary btn-block"
+                                                            >
+                                                                        Submit
+                                                            </button>
+                                                </form>
+                                    </div>
+                        </div>
+            </div>
+</div>,
+          "className": "container",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="col-12 col-sm-8 col-md-6 col-lg-3"
+>
+              <div
+                            className="card"
+              >
+                            <div
+                                          className="card-body"
+                            >
+                                          <h3
+                                                        className="text-center"
+                                          >
+                                                        Login
+                                          </h3>
+                                          <form
+                                                        className="mt-4"
+                                          >
+                                                        <div
+                                                                      className="form-group"
+                                                        >
+                                                                      <label
+                                                                                    htmlFor="Email1"
+                                                                      >
+                                                                                    Email address
+                                                                      </label>
+                                                                      <input
+                                                                                    className="form-control"
+                                                                                    id="Email1"
+                                                                                    placeholder="Enter your email"
+                                                                                    type="text"
+                                                                      />
+                                                        </div>
+                                                        <div
+                                                                      className="form-group"
+                                                        >
+                                                                      <label
+                                                                                    htmlFor="Password1"
+                                                                      >
+                                                                                    Password
+                                                                      </label>
+                                                                      <input
+                                                                                    className="form-control"
+                                                                                    id="Password1"
+                                                                                    placeholder="Enter your password"
+                                                                                    type="password"
+                                                                      />
+                                                        </div>
+                                                        <button
+                                                                      className="btn btn-primary btn-block"
+                                                        >
+                                                                      Submit
+                                                        </button>
+                                          </form>
+                            </div>
+              </div>
+</div>,
+            "className": "row justify-content-center",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <div
+                className="card"
+>
+                <div
+                                className="card-body"
+                >
+                                <h3
+                                                className="text-center"
+                                >
+                                                Login
+                                </h3>
+                                <form
+                                                className="mt-4"
+                                >
+                                                <div
+                                                                className="form-group"
+                                                >
+                                                                <label
+                                                                                htmlFor="Email1"
+                                                                >
+                                                                                Email address
+                                                                </label>
+                                                                <input
+                                                                                className="form-control"
+                                                                                id="Email1"
+                                                                                placeholder="Enter your email"
+                                                                                type="text"
+                                                                />
+                                                </div>
+                                                <div
+                                                                className="form-group"
+                                                >
+                                                                <label
+                                                                                htmlFor="Password1"
+                                                                >
+                                                                                Password
+                                                                </label>
+                                                                <input
+                                                                                className="form-control"
+                                                                                id="Password1"
+                                                                                placeholder="Enter your password"
+                                                                                type="password"
+                                                                />
+                                                </div>
+                                                <button
+                                                                className="btn btn-primary btn-block"
+                                                >
+                                                                Submit
+                                                </button>
+                                </form>
+                </div>
+</div>,
+              "className": "col-12 col-sm-8 col-md-6 col-lg-3",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <div
+                  className="card-body"
+>
+                  <h3
+                                    className="text-center"
+                  >
+                                    Login
+                  </h3>
+                  <form
+                                    className="mt-4"
+                  >
+                                    <div
+                                                      className="form-group"
+                                    >
+                                                      <label
+                                                                        htmlFor="Email1"
+                                                      >
+                                                                        Email address
+                                                      </label>
+                                                      <input
+                                                                        className="form-control"
+                                                                        id="Email1"
+                                                                        placeholder="Enter your email"
+                                                                        type="text"
+                                                      />
+                                    </div>
+                                    <div
+                                                      className="form-group"
+                                    >
+                                                      <label
+                                                                        htmlFor="Password1"
+                                                      >
+                                                                        Password
+                                                      </label>
+                                                      <input
+                                                                        className="form-control"
+                                                                        id="Password1"
+                                                                        placeholder="Enter your password"
+                                                                        type="password"
+                                                      />
+                                    </div>
+                                    <button
+                                                      className="btn btn-primary btn-block"
+                                    >
+                                                      Submit
+                                    </button>
+                  </form>
+</div>,
+                "className": "card",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <h3
+                      className="text-center"
+>
+                      Login
+</h3>,
+                    <form
+                      className="mt-4"
+>
+                      <div
+                                            className="form-group"
+                      >
+                                            <label
+                                                                  htmlFor="Email1"
+                                            >
+                                                                  Email address
+                                            </label>
+                                            <input
+                                                                  className="form-control"
+                                                                  id="Email1"
+                                                                  placeholder="Enter your email"
+                                                                  type="text"
+                                            />
+                      </div>
+                      <div
+                                            className="form-group"
+                      >
+                                            <label
+                                                                  htmlFor="Password1"
+                                            >
+                                                                  Password
+                                            </label>
+                                            <input
+                                                                  className="form-control"
+                                                                  id="Password1"
+                                                                  placeholder="Enter your password"
+                                                                  type="password"
+                                            />
+                      </div>
+                      <button
+                                            className="btn btn-primary btn-block"
+                      >
+                                            Submit
+                      </button>
+</form>,
+                  ],
+                  "className": "card-body",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Login",
+                      "className": "text-center",
+                    },
+                    "ref": null,
+                    "rendered": "Login",
+                    "type": "h3",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <div
+                          className="form-group"
+>
+                          <label
+                                                    htmlFor="Email1"
+                          >
+                                                    Email address
+                          </label>
+                          <input
+                                                    className="form-control"
+                                                    id="Email1"
+                                                    placeholder="Enter your email"
+                                                    type="text"
+                          />
+</div>,
+                        <div
+                          className="form-group"
+>
+                          <label
+                                                    htmlFor="Password1"
+                          >
+                                                    Password
+                          </label>
+                          <input
+                                                    className="form-control"
+                                                    id="Password1"
+                                                    placeholder="Enter your password"
+                                                    type="password"
+                          />
+</div>,
+                        <button
+                          className="btn btn-primary btn-block"
+>
+                          Submit
+</button>,
+                      ],
+                      "className": "mt-4",
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <label
+                              htmlFor="Email1"
+>
+                              Email address
+</label>,
+                            <input
+                              className="form-control"
+                              id="Email1"
+                              placeholder="Enter your email"
+                              type="text"
+/>,
+                          ],
+                          "className": "form-group",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Email address",
+                              "htmlFor": "Email1",
+                            },
+                            "ref": null,
+                            "rendered": "Email address",
+                            "type": "label",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "className": "form-control",
+                              "id": "Email1",
+                              "placeholder": "Enter your email",
+                              "type": "text",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "input",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": Array [
+                            <label
+                              htmlFor="Password1"
+>
+                              Password
+</label>,
+                            <input
+                              className="form-control"
+                              id="Password1"
+                              placeholder="Enter your password"
+                              type="password"
+/>,
+                          ],
+                          "className": "form-group",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": "Password",
+                              "htmlFor": "Password1",
+                            },
+                            "ref": null,
+                            "rendered": "Password",
+                            "type": "label",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "className": "form-control",
+                              "id": "Password1",
+                              "placeholder": "Enter your password",
+                              "type": "password",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "input",
+                          },
+                        ],
+                        "type": "div",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "children": "Submit",
+                          "className": "btn btn-primary btn-block",
+                        },
+                        "ref": null,
+                        "rendered": "Submit",
+                        "type": "button",
+                      },
+                    ],
+                    "type": "form",
+                  },
+                ],
+                "type": "div",
+              },
+              "type": "div",
+            },
+            "type": "div",
+          },
+          "type": "div",
+        },
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getSnapshotBeforeUpdate": true,
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;

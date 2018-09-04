@@ -1,0 +1,42 @@
+button {
+  cursor: pointer;
+}
+
+body::-webkit-scrollbar {
+  width: 6px;
+  background-color: #ccc;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: $lilac-grey;
+  border-radius: 1px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.butercup {
+  background-color: $butercup !important;
+}
+
+.snorkel-blue {
+  background-color: $snorkel-blue !important;
+}
+
+.snorkel-blue-footer {
+  background-color: $snorkel-blue !important;
+  border-top: 3px solid $butercup;
+}
+
+.serenity {
+  background-color: $serenity !important;
+}
+
+.lilac-grey {
+  background-color: $lilac-grey !important;
+}
+
+.is-active {
+  font-weight: bold;
+}

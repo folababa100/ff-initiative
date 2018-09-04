@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3001,
+    "MONGODB_URI": "mongodb://localhost:27017/FFInitiativeTest",
+    "JWT_SECRET": "ojfoj4r0jjfvmrf0k0ovj004fk00vsdijoihoe2h8inhend38ej90jnhiondeubfubu"
+  },
+  "development": {
+    "PORT": 3001,
+    "MONGODB_URI": "mongodb://localhost:27017/FFInitiative",
+    "JWT_SECRET": "ojfssojr0jDCDrf0k0ovj004fkD0vhidsuhciuviuhaopaksbiuh819090e2bubhsud"
+  }
+}
