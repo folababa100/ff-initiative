@@ -278,11 +278,11 @@ describe('POST/ users', () => {
   it('should create a user', (done) => {
     const email = 'shaku@gmail.com';
     const password = '123abc';
-    const username = 'shakushaku'
+    const fullName = 'shakushaku'
 
     request(app)
       .post('/users')
-      .send({email, password, username})
+      .send({email, password, fullName})
       .expect(200)
       .expect((res) => {
         expect(res.headers['x-auth']).toBeTruthy()
@@ -317,7 +317,7 @@ describe('POST/ users', () => {
       .post('/users')
       .send({
         email: users[0].email,
-        username: 'helloworld',
+        fullName: 'helloworld',
         password: 'wassupboy'
       })
       .expect(400)

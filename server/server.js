@@ -26,7 +26,7 @@ app.use((req, res, next) => {
 })
 
 app.post('/users', (req, res) => {
-  var body = _.pick(req.body, ['email', 'password', 'username']);
+  var body = _.pick(req.body, ['email', 'password', 'fullName', 'phoneNumber']);
   var user = new User(body);
 
   user.save().then(() => {

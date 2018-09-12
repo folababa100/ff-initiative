@@ -5,19 +5,25 @@ const Product = mongoose.model('Product', {
   name: {
     type: String,
     required: true,
-    minlength: 1,
+    minlength: 6,
     trim: true
   },
-  body: {
+  description: {
     type: String,
     required: true,
-    minlength: 1,
+    minlength: 10,
     trim: 1
   },
-  // price: {
-  //   type: Number,
-  //   required: true
-  // },
+  seller: {
+    type: String,
+    required: true,
+    minlength: 6,
+    trim: true
+  },
+  price: {
+    type: Number,
+    required: true
+  },
   completed: {
     type: Boolean,
     default: false

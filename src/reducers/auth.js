@@ -3,12 +3,15 @@ const defaultState = {
 }
 
 export default (state = defaultState, action) => {
-  console.log(action)
   switch (action.type) {
     case 'LOGIN':
-    return Object.assign({}, state, {
-      token: action.payload.data.tokens[0].token
-    })
+      return Object.assign({}, state, {
+        token: action.payload.data.tokens[0].token
+      })
+    case 'SIGNUP':
+      return Object.assign({}, state, {
+        token: action.payload.data.tokens[0].token
+      })
     default:
       return state;
   }

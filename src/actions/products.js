@@ -1,4 +1,20 @@
-import uuid from 'uuid';
+import axios from 'axios';
+
+export const getAllProducts = () => {
+  return (dispatch) => {
+    axios.get('http://localhost:3001/products')
+      .then((res) => {
+        console.log(res)
+        dispatch({
+          type: '',
+          payload: res.data.products
+        })
+      })
+      .catch((e) => {
+        console.log(e)
+      })
+  }
+}
 
 export const addProduct = (
   {
@@ -11,7 +27,6 @@ export const addProduct = (
 ) => ({
   type: 'ADD_PRODUCTS',
   product: {
-    id: uuid(),
     name,
     description,
     seller,

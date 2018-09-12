@@ -16,7 +16,16 @@ var UserSchema = new mongoose.Schema({
       message: '{VALUE} is not a valid email'
     }
   },
-  username: {
+  phoneNumber: {
+    type: String,
+    required: true,
+    minlength: 1,
+    validate: {
+      validator: validator.isNumeric,
+      message: '{VALUE} is not a valid phone number'
+    }
+  },
+  fullName: {
     type: String,
     required: true,
     trim: true,

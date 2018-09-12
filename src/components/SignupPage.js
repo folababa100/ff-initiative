@@ -1,12 +1,34 @@
-import React from 'react';
-import SignUpDesign from './SignUpDesign'
+import React, { Component } from 'react';
+import SignUpDesign from './SignUpDesign';
+import { connect } from "react-redux";
+import { signUp } from '../actions/auth';
+import { bindActionCreators } from 'redux';
 
-const SignupPage = () => {
-  return (
-    <div>
-      <SignUpDesign/>
-    </div>
-  )
+class SignupPage extends Component {
+  onSubmit = (user) => {
+    this.props.signUp(user);
+    this.props.history.push('/');
+  };
+  render() {
+    return (
+      <div>
+        <SignUpDesign
+          onSubmit={this.onSubmit}
+        />
+      </div>
+    )
+  }
 }
 
-export default SignupPage;
+const mapStateToProps = (store) => {
+  return {
+  }
+}
+
+const matchDispatchToProps = (dispatch) => {
+  return bindActionCreators({
+    signUp: signUp,
+  }, dispatch);
+}
+
+export default connect(mapStateToProps, matchDispatchToProps)(SignupPage);

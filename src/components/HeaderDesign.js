@@ -1,5 +1,6 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
+// eslint-disable-next-line
 import { connect } from 'react-redux';
 
 export const HeaderDesign = () => {
@@ -40,7 +41,8 @@ export const HeaderDesign = () => {
                 <NavLink to="/signup" className="nav-link">Sign Up</NavLink>
               </li>
             </ul>
-            <button className="btn mr-sm-2">Log In</button>
+            <Link className="btn mr-sm-2" to="/login">Login</Link>
+            {/* <button></button> */}
           </div>
         </div>
       </nav>

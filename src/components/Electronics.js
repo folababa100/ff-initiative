@@ -20,52 +20,48 @@ export default class Electronics extends React.Component {
     ];
     const listItems = data.map((d) => <li key={d.id} className="nav-link white-color-text">{d.name}</li>)
     return (
-      <div className="front">
-        <div className="container butercup">
-          <div className="row">
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr />
-                {listItems}
-              </ul>
-            </div>
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr />
-                {listItems}
-              </ul>
-            </div>
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr/>
-                {listItems}
-              </ul>
-            </div>
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr/>
-                {listItems}
-              </ul>
-            </div>
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr/>
-                {listItems}
-              </ul>
-            </div>
-            <div className="col-2">
-              <ul>
-                <li className="nav-link white-color-text font-weight-bold">Freezer</li>
-                <hr/>
-                {listItems}
-              </ul>
-            </div>
-          </div>
+      <div className="row">
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
+        </div>
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
+        </div>
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
+        </div>
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
+        </div>
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
+        </div>
+        <div className="col-2">
+          <ul>
+            <li className="nav-link white-color-text font-weight-bold">Freezer</li>
+            <hr />
+            {listItems}
+          </ul>
         </div>
       </div>
     )

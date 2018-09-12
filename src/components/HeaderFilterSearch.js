@@ -6,6 +6,7 @@ import BabyKids from './BabyKids';
 import WineOther from './WineOther';
 import Electronics from './Electronics';
 import ComputerAccessories from './ComputerAccessories';
+import FlipMove from 'react-flip-move';
 
 export default class HeaderFilterSearch extends React.Component {
   constructor(props) {
@@ -22,24 +23,87 @@ export default class HeaderFilterSearch extends React.Component {
   }
   renderComponent() {
     if (this.state.show === true) {
-      return <PhonesTablets/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <PhonesTablets />
+          </div>
+        </div>
+      )
     } else if (this.state.show1 === true) {
-      return <ComputerAccessories/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show1: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <ComputerAccessories />
+          </div>
+        </div>
+      )
     } else if (this.state.show2 === true) {
-      return <Electronics/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show2: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <Electronics />
+          </div>
+        </div>
+      )
     } else if (this.state.show3 === true) {
-      return <Fashion/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show3: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <Fashion />
+          </div>
+        </div>
+      )
     } else if (this.state.show4 === true) {
-      return <BabyKids/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show4: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <BabyKids />
+          </div>
+        </div>
+      )
     } else if (this.state.show5 === true) {
-      return <HomeKitchen/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show5: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <HomeKitchen />
+          </div>
+        </div>
+      )
     } else if (this.state.show6 === true) {
-      return <WineOther/>
+      return (
+        <div className="front">
+          <div onMouseLeave={() => {
+            this.setState({ show6: false })
+            document.querySelector('.navQuery').style.display = 'none'
+          }} id="butercup" className="navQuery container butercup">
+            <WineOther />
+          </div>
+        </div>
+      )
     }
   }
   render() {
     return (
-      <div className="none">
+      <div>
         <nav className="navbar navbar-adjust navbar-expand-lg navbar-dark snorkel-blue nav-border">
           <div className="container">
             <div className="row">
@@ -53,7 +117,7 @@ export default class HeaderFilterSearch extends React.Component {
                     <li onMouseEnter={() => this.state.show1 === false ? this.setState({ show1: true, show: false, show2: false, show3: false, show4: false, show5: false, show6: false }) : this.setState({ show1: false, show: false, show2: false, show3: false, show4: false, show5: false, show6: false })} className="nav-item ml-6">
                       <div className="nav-link cursor">Computer & Accessories</div>
                     </li>
-                    <li  onMouseEnter={() => this.state.show2 === false ? this.setState({ show2: true, show: false, show1: false, show3: false, show4: false, show5: false, show6: false }) : this.setState({ show1: false, show: false, show2: false, show3: false, show4: false, show5: false, show6: false })} className="nav-item ml-6">
+                    <li onMouseEnter={() => this.state.show2 === false ? this.setState({ show2: true, show: false, show1: false, show3: false, show4: false, show5: false, show6: false }) : this.setState({ show1: false, show: false, show2: false, show3: false, show4: false, show5: false, show6: false })} className="nav-item ml-6">
                       <div className="nav-link cursor">Electronics</div>
                     </li>
                     <li onMouseEnter={() => this.state.show3 === false ? this.setState({ show3: true, show: false, show2: false, show1: false, show4: false, show5: false, show6: false }) : this.setState({ show1: false, show: false, show2: false, show3: false, show4: false, show5: false, show6: false })} className="nav-item ml-6">
@@ -75,7 +139,9 @@ export default class HeaderFilterSearch extends React.Component {
             </div>
           </div>
         </nav>
-        {this.renderComponent()}
+        <FlipMove enterAnimation="elevator" leaveAnimation="fade">
+          {this.renderComponent()}
+        </FlipMove>
       </div>
     )
   }

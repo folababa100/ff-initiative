@@ -41,7 +41,7 @@ export default class FaqDesign extends React.Component {
                     <div className="col-3">
                       <div className="row active-faq" onClick={() => this.setState({ showYourOrder: true, showManagingAccount: false, showCoupons: false, showPayingOptions: false })}>
                         <div className="col-5">
-                          <img width="100" height="100" src="/images/shutterstock-318359918.png" />
+                          <img width="100" height="100" src="/images/shutterstock-318359918.png" alt=" " />
                         </div>
                         <div className="col-7">
                           <h4 className="h4">Your Order</h4>
@@ -52,7 +52,7 @@ export default class FaqDesign extends React.Component {
                     <div className="col-3">
                       <div className="row active-faq" onClick={() => this.setState({ showManagingAccount: true, showYourOrder: false, showCoupons: false, showPayingOptions: false })}>
                         <div className="col-5">
-                          <img width="100" height="100" src="/images/shutterstock-318359918.png" />
+                          <img width="100" height="100" src="/images/shutterstock-318359918.png" alt=" " />
                         </div>
                         <div className="col-7">
                           <h4 className="h4">Managing Account</h4>
@@ -63,7 +63,7 @@ export default class FaqDesign extends React.Component {
                     <div className="col-3">
                       <div className="row active-faq" onClick={() => this.setState({ showPayingOptions: true, showManagingAccount: false, showYourOrder: false, showCoupons: false })}>
                         <div className="col-5">
-                          <img width="100" height="100" src="/images/shutterstock-318359918.png" />
+                          <img width="100" height="100" src="/images/shutterstock-318359918.png" alt=" " />
                         </div>
                         <div className="col-7">
                           <h4 className="h4">Payment Options</h4>
@@ -74,7 +74,7 @@ export default class FaqDesign extends React.Component {
                     <div className="col-3">
                       <div className="row active-faq" onClick={() => this.setState({ showCoupons: true, showManagingAccount: false, showYourOrder: false, showPayingOptions: false })}>
                         <div className="col-5">
-                          <img width="100" height="100" src="/images/shutterstock-318359918.png" alt="A Picture in the Faq section" />
+                          <img width="100" height="100" src="/images/shutterstock-318359918.png" alt=" " />
                         </div>
                         <div className="col-7">
                           <h4 className="h4">Gift Vouchers/Coupon</h4>

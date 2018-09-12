@@ -10,6 +10,8 @@ const productsReducerDefaultState = [
 
 export default (state = productsReducerDefaultState, action) => {
   switch (action.type) {
+    case 'FETCH_ALL_PRODUCTS':
+      return action.payload
     case "ADD_PRODUCTS":
       return [
         ...state,
