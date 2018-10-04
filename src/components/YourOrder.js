@@ -61,7 +61,7 @@ export default class YourOrder extends React.Component {
   render() {
     return (
       <div>
-        <button type="button" onClick={() => this.hideSomeElement()} className="faq-btn btn btn-lg">Show All Answers</button>
+        <button type="button" onClick={() => this.hideSomeElement()} className="faq-btn my-btn btn btn-lg">Show All Answers</button>
         <div id="k" className="container mt-4">
           <div className="row">
             <div className="col-12">

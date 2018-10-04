@@ -41,7 +41,7 @@ export const HeaderDesign = () => {
                 <NavLink to="/signup" className="nav-link">Sign Up</NavLink>
               </li>
             </ul>
-            <Link className="btn mr-sm-2" to="/login">Login</Link>
+            <Link className="my-btn btn mr-sm-2" to="/login">Login</Link>
             {/* <button></button> */}
           </div>
         </div>

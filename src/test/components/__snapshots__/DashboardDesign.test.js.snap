@@ -16,7 +16,7 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": <Connect(Component) />,
+      "children": <Connect(DashboardMain) />,
       "className": "back-color",
     },
     "ref": null,
@@ -37,7 +37,7 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <Connect(Component) />,
+        "children": <Connect(DashboardMain) />,
         "className": "back-color",
       },
       "ref": null,

@@ -20,19 +20,14 @@ export default class HeaderFilterSearch extends React.Component {
       show5: false,
       show6: false
     }
+    this.updateText = this.updateText
+  }
+  updateText = (show) => {
+    this.setState({ show })
   }
   renderComponent() {
     if (this.state.show === true) {
-      return (
-        <div className="front">
-          <div onMouseLeave={() => {
-            this.setState({ show: false })
-            document.querySelector('.navQuery').style.display = 'none'
-          }} id="butercup" className="navQuery container butercup">
-            <PhonesTablets />
-          </div>
-        </div>
-      )
+      return <PhonesTablets updateText={this.updateText} />
     } else if (this.state.show1 === true) {
       return (
         <div className="front">

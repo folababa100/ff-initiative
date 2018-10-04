@@ -1,19 +1,22 @@
 import axios from 'axios';
+// import { FETCH_PRODUCTS } from "./types";
 
-export const getAllProducts = () => {
-  return (dispatch) => {
+export function getAllProducts() {
+  return function (dispatch) {
+    dispatch({type: 'FETCH_ALL_REQUESTS'});
+    // axios.defaults.headers.common['x-auth'] = localStorage.getItem('token');
     axios.get('http://localhost:3001/products')
-      .then((res) => {
-        console.log(res)
+      .then((response) => {
+        console.log(response)
         dispatch({
-          type: '',
-          payload: res.data.products
-        })
+          type: 'FETCH_ALL_PRODUCTS',
+          payload: response.data.products,
+        });
       })
       .catch((e) => {
         console.log(e)
       })
-  }
+  };
 }
 
 export const addProduct = (

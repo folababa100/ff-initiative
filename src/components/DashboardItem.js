@@ -1,7 +1,7 @@
 import React from 'react';
 import moment from 'moment'
 
-const DashboardItem = ({ name, description, price, createdAt }) => {
+const DashboardItem = ({ name, description, price, createdAt, seller }) => {
   return (
     <div className="col-md-4">
       <div className="card card-hov cursor mt-4">
@@ -10,6 +10,7 @@ const DashboardItem = ({ name, description, price, createdAt }) => {
           <p className="p">{description}</p>
           <p className="p">{moment(createdAt).format('MMMM Do YYYY')}</p>
           <h6 className="h-5">{price}</h6>
+          <p className="p">{seller}</p>
         </div>
       </div>
     </div>

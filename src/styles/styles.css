@@ -116,6 +116,9 @@ body {
 .mb-7 {
   margin-bottom: 4rem; }
 
+.mb-6 {
+  margin-bottom: 2rem; }
+
 .hr {
   border-top: 2px solid rgba(0, 0, 0, 0.1);
   width: 95%; }
@@ -203,7 +206,12 @@ body {
   font-size: 1.3rem;
   font-weight: 200; }
 
-.btn:focus {
+.my-btn-danger {
+  color: #fff;
+  background-color: #d93025;
+  border-color: #d93025; }
+
+.my-btn:focus {
   outline: 0;
   background-color: #91A8D0;
   background-image: none;
@@ -211,17 +219,17 @@ body {
   box-shadow: 0 0 0 0.2rem rgba(181, 196, 223, 0.34);
   color: black; }
 
-.btn {
+.my-btn {
   background-color: transparent;
   background-image: none;
   border-color: #91A8D0;
   color: #91A8D0; }
 
-.btn:hover {
+.my-btn:hover {
   background-color: #91A8D0;
   color: black; }
 
-.btn:active {
+.my-btn:active {
   background-color: #91A8D0;
   color: black; }
 
@@ -275,7 +283,7 @@ body {
   border-radius: 0px; }
 
 .card--adjust {
-  height: 32rem; }
+  height: 34rem; }
 
 .btn-radius {
   width: 4rem;
@@ -297,6 +305,25 @@ body {
 
 .navQuery {
   transition: color 1s ease-in-out, background-color 1s ease-in-out, border-color 1s ease-in-out, box-shadow 1s ease-in-out, -webkit-box-shadow 1s ease-in-out; }
+
+.reset-contact-form {
+  border-radius: 0;
+  font-size: 1.05rem;
+  font-weight: 400;
+  display: block;
+  width: 100%;
+  height: 4rem;
+  padding: 1.3rem 0.75rem;
+  color: #6c757d;
+  line-height: 1.5;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+  transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+  -o-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out; }
 
 .reset-form {
   display: block;

@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 
 class LoginDesign extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      error: ''
+    }
+  }
   loginUser(e) {
     e.preventDefault()
 
@@ -35,8 +42,13 @@ class LoginDesign extends Component {
                       <label htmlFor="Password1">Password</label>
                       <input ref="password" placeholder="Enter your password" id="Password1" type="password" className="form-control" />
                     </div>
-                    <button className="btn btn-primary btn-block">Submit</button>
+                    <button className="my-btn btn btn-primary btn-block">Submit</button>
                   </form>
+                  <div className="row">
+                    <div className="col-12" style={{ textAlign: 'center' }}>
+                      <Link to="/signup">Don't Have an account?</Link>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

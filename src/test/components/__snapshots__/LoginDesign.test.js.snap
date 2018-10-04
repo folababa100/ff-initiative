@@ -38,6 +38,7 @@ ShallowWrapper {
                                         </h3>
                                         <form
                                                 className="mt-4"
+                                                onSubmit={[Function]}
                                         >
                                                 <div
                                                         className="form-group"
@@ -107,6 +108,7 @@ ShallowWrapper {
                                         </h3>
                                         <form
                                                   className="mt-4"
+                                                  onSubmit={[Function]}
                                         >
                                                   <div
                                                             className="form-group"
@@ -172,6 +174,7 @@ ShallowWrapper {
                                     </h3>
                                     <form
                                                 className="mt-4"
+                                                onSubmit={[Function]}
                                     >
                                                 <div
                                                             className="form-group"
@@ -233,6 +236,7 @@ ShallowWrapper {
                             </h3>
                             <form
                                           className="mt-4"
+                                          onSubmit={[Function]}
                             >
                                           <div
                                                         className="form-group"
@@ -290,6 +294,7 @@ ShallowWrapper {
                 </h3>
                 <form
                                 className="mt-4"
+                                onSubmit={[Function]}
                 >
                                 <div
                                                 className="form-group"
@@ -344,6 +349,7 @@ ShallowWrapper {
 </h3>,
                   <form
                     className="mt-4"
+                    onSubmit={[Function]}
 >
                     <div
                                         className="form-group"
@@ -441,6 +447,7 @@ ShallowWrapper {
 </button>,
                     ],
                     "className": "mt-4",
+                    "onSubmit": [Function],
                   },
                   "ref": null,
                   "rendered": Array [
@@ -488,7 +495,7 @@ ShallowWrapper {
                             "placeholder": "Enter your email",
                             "type": "text",
                           },
-                          "ref": null,
+                          "ref": "email",
                           "rendered": null,
                           "type": "input",
                         },
@@ -539,7 +546,7 @@ ShallowWrapper {
                             "placeholder": "Enter your password",
                             "type": "password",
                           },
-                          "ref": null,
+                          "ref": "password",
                           "rendered": null,
                           "type": "input",
                         },
@@ -602,6 +609,7 @@ ShallowWrapper {
                                                   </h3>
                                                   <form
                                                             className="mt-4"
+                                                            onSubmit={[Function]}
                                                   >
                                                             <div
                                                                       className="form-group"
@@ -671,6 +679,7 @@ ShallowWrapper {
                                                 </h3>
                                                 <form
                                                             className="mt-4"
+                                                            onSubmit={[Function]}
                                                 >
                                                             <div
                                                                         className="form-group"
@@ -736,6 +745,7 @@ ShallowWrapper {
                                           </h3>
                                           <form
                                                         className="mt-4"
+                                                        onSubmit={[Function]}
                                           >
                                                         <div
                                                                       className="form-group"
@@ -797,6 +807,7 @@ ShallowWrapper {
                                 </h3>
                                 <form
                                                 className="mt-4"
+                                                onSubmit={[Function]}
                                 >
                                                 <div
                                                                 className="form-group"
@@ -854,6 +865,7 @@ ShallowWrapper {
                   </h3>
                   <form
                                     className="mt-4"
+                                    onSubmit={[Function]}
                   >
                                     <div
                                                       className="form-group"
@@ -908,6 +920,7 @@ ShallowWrapper {
 </h3>,
                     <form
                       className="mt-4"
+                      onSubmit={[Function]}
 >
                       <div
                                             className="form-group"
@@ -1005,6 +1018,7 @@ ShallowWrapper {
 </button>,
                       ],
                       "className": "mt-4",
+                      "onSubmit": [Function],
                     },
                     "ref": null,
                     "rendered": Array [
@@ -1052,7 +1066,7 @@ ShallowWrapper {
                               "placeholder": "Enter your email",
                               "type": "text",
                             },
-                            "ref": null,
+                            "ref": "email",
                             "rendered": null,
                             "type": "input",
                           },
@@ -1103,7 +1117,7 @@ ShallowWrapper {
                               "placeholder": "Enter your password",
                               "type": "password",
                             },
-                            "ref": null,
+                            "ref": "password",
                             "rendered": null,
                             "type": "input",
                           },

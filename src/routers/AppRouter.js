@@ -14,7 +14,7 @@ import BulkPurchasePage from '../components/BulkPurchasePage';
 import SellPage from '../components/SellPage';
 import CartPage from '../components/CartPage';
 import LikePage from '../components/LikePage';
-// import PrivateRoute from './PrivateRoute';
+import PrivateRoute from './PrivateRoute';
 import PublicRoute from './PublicRoute';
 
 export const history = createHistory();
@@ -25,7 +25,7 @@ const AppRouter = () => (
       <Switch>
         <PublicRoute path="/" component={DashboardPage} exact={true} />
         <PublicRoute path="/about" component={AboutPage} />
-        <PublicRoute path="/cart" component={CartPage} />
+        <PrivateRoute path="/cart" component={CartPage} />
         <PublicRoute path="/like" component={LikePage} />
         <PublicRoute path="/signup" component={SignupPage} />
         <PublicRoute path="/login" component={LoginPage} />
@@ -33,7 +33,7 @@ const AppRouter = () => (
         <PublicRoute path="/return" component={ReturnPolicy}/>
         <PublicRoute path="/faq" component={Faq}/>
         <PublicRoute path="/locate" component={LocatorPage}/>
-        <PublicRoute path="/bulk" component={BulkPurchasePage}/>
+        <PrivateRoute path="/bulk" component={BulkPurchasePage}/>
         <PublicRoute path="/sell" component={SellPage}/>
         <Route component={NotFoundPage} />
       </Switch>

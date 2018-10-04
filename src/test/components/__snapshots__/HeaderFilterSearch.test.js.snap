@@ -112,7 +112,20 @@ ShallowWrapper {
                     </div>
           </div>
 </nav>,
-        undefined,
+        <FlipMovePropConverter
+          delay={0}
+          disableAllAnimations={false}
+          duration={350}
+          easing="ease-in-out"
+          enterAnimation="elevator"
+          getPosition={[Function]}
+          leaveAnimation="fade"
+          maintainContainerHeight={false}
+          staggerDelayBy={0}
+          staggerDurationBy={0}
+          typeName="div"
+          verticalAlignment="top"
+/>,
       ],
     },
     "ref": null,
@@ -862,7 +875,29 @@ ShallowWrapper {
         },
         "type": "nav",
       },
-      undefined,
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "children": undefined,
+          "delay": 0,
+          "disableAllAnimations": false,
+          "duration": 350,
+          "easing": "ease-in-out",
+          "enterAnimation": "elevator",
+          "getPosition": [Function],
+          "leaveAnimation": "fade",
+          "maintainContainerHeight": false,
+          "staggerDelayBy": 0,
+          "staggerDurationBy": 0,
+          "typeName": "div",
+          "verticalAlignment": "top",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
     ],
     "type": "div",
   },
@@ -968,7 +1003,20 @@ ShallowWrapper {
                         </div>
             </div>
 </nav>,
-          undefined,
+          <FlipMovePropConverter
+            delay={0}
+            disableAllAnimations={false}
+            duration={350}
+            easing="ease-in-out"
+            enterAnimation="elevator"
+            getPosition={[Function]}
+            leaveAnimation="fade"
+            maintainContainerHeight={false}
+            staggerDelayBy={0}
+            staggerDurationBy={0}
+            typeName="div"
+            verticalAlignment="top"
+/>,
         ],
       },
       "ref": null,
@@ -1718,7 +1766,29 @@ ShallowWrapper {
           },
           "type": "nav",
         },
-        undefined,
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "children": undefined,
+            "delay": 0,
+            "disableAllAnimations": false,
+            "duration": 350,
+            "easing": "ease-in-out",
+            "enterAnimation": "elevator",
+            "getPosition": [Function],
+            "leaveAnimation": "fade",
+            "maintainContainerHeight": false,
+            "staggerDelayBy": 0,
+            "staggerDurationBy": 0,
+            "typeName": "div",
+            "verticalAlignment": "top",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
       ],
       "type": "div",
     },

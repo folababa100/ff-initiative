@@ -17,7 +17,8 @@ ShallowWrapper {
     "nodeType": "host",
     "props": Object {
       "children": <div
-        className="container butercup"
+        className="butercup container"
+        onMouseLeave={[Function]}
 >
         <div
                 className="row"
@@ -1020,7 +1021,8 @@ ShallowWrapper {
                     </ul>
           </div>
 </div>,
-        "className": "container butercup",
+        "className": "butercup container",
+        "onMouseLeave": [Function],
       },
       "ref": null,
       "rendered": Object {
@@ -3748,7 +3750,8 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": <div
-          className="container butercup"
+          className="butercup container"
+          onMouseLeave={[Function]}
 >
           <div
                     className="row"
@@ -4751,7 +4754,8 @@ ShallowWrapper {
                         </ul>
             </div>
 </div>,
-          "className": "container butercup",
+          "className": "butercup container",
+          "onMouseLeave": [Function],
         },
         "ref": null,
         "rendered": Object {

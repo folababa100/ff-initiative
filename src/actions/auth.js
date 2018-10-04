@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { SIGNUP_USER, LOGIN_USER, AUTH_LOGIN_USER_REQUEST } from "./types";
+import { history } from '../routers/AppRouter';
 
 export const loginUser = ((object, callback) => {
   return (dispatch) => {
@@ -15,6 +16,7 @@ export const loginUser = ((object, callback) => {
         if (typeof callback === 'function') {
           callback(null, response.data);
         }
+        history.push('/')
       })
       .catch((e) => {
         console.log(e)
@@ -34,6 +36,7 @@ export const signUp = ((object, callback) => {
         if (typeof callback === 'function') {
           callback(null, res.data);
         }
+        history.push('/')
       })
       .catch((error) => {
         dispatch({ type: 'SIGNUP_USER_FAILURE' });

@@ -7,7 +7,7 @@ const CartDesign = () => {
         <div className="col-12">
           <div className="card">
             <div className="card-body">
-              <h1 className="text-center">Welcome to our cart page</h1>
+              <h1 className="text-center">Opps sorry you don't have cart yet</h1>
             </div>
           </div>
         </div>

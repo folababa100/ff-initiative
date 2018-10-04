@@ -5,15 +5,16 @@ import { signUp } from '../actions/auth';
 import { bindActionCreators } from 'redux';
 
 class SignupPage extends Component {
-  onSubmit = (user) => {
-    this.props.signUp(user);
-    this.props.history.push('/');
-  };
+  // onSubmit = (user) => {
+  //   this.props.signUp(user);
+  //   this.props.history.push('/');
+  // };
+
   render() {
     return (
       <div>
         <SignUpDesign
-          onSubmit={this.onSubmit}
+          signUp={this.props.signUp}
         />
       </div>
     )

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 
 class SignUpDesign extends Component {
   constructor(props) {
@@ -15,7 +16,7 @@ class SignUpDesign extends Component {
     const fullName = this.refs.fullName.value.trim();
     const password = this.refs.password.value.trim();
 
-      this.props.onSubmit({
+      this.props.signUp({
         email, password, phoneNumber, fullName
       }, function (error, res) {
         if (error) {
@@ -35,12 +36,12 @@ class SignUpDesign extends Component {
                 <div className="card-body text-center">
                   <h1>Sign Up</h1>
                   <form className="mt-4" onSubmit={this.signUpUser.bind(this)}>
-                    <button className="btn btn-block btn-primary">
+                    <button className="my-btn btn btn-block btn-primary">
                       <i className="mr-5 icon ion-social-facebook"></i>
   
                       Sign in with Facebook
                     </button>
-                    <button className="btn btn-block btn-danger mb-2">
+                    <button className="btn btn-block my-btn-danger btn-danger mb-2">
                       <i className=" mr-5 icon ion-social-google"></i>
   
                       Sign in with Google
@@ -58,8 +59,13 @@ class SignUpDesign extends Component {
                     <div className="form-group">
                       <input ref="password" type="password" className="form-control" placeholder="Password" />
                     </div>
-                    <button className="btn bb btn-primary btn-block">Submit</button>
+                    <button className="my-btn btn bb btn-primary btn-block">Submit</button>
                   </form>
+                  <div className="row">
+                    <div className="col-12" style={{ textAlign: 'center' }}>
+                      <Link to="/login">Have an account?</Link>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

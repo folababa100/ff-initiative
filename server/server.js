@@ -5,10 +5,24 @@ const _ = require('lodash');
 const moment = require('moment');
 // eslint-disable-next-line
 const {mongoose} = require('./db/mongoose');
+const keys = require('./config/keys')
 const { ObjectID } = require('mongodb');
 const {Product} = require('./models/product');
 const {User} = require('./models/user');
 const {authenticate} = require('./middleware/authenticate');
+const passport = require('passport');
+const GoogleStrategy = require('passport-google-oauth20').Strategy;
+
+
+passport.use(new GoogleStrategy({
+    clientID: keys.googleClientID,
+    clientSecret: keys.googleSecret,
+    callbackURL: 'http://localhost:3001/auth/google/callback'
+  },
+    accessToken => {
+      console.log(accessToken)
+    }
+))
 
 const app = express();
 
@@ -38,6 +52,14 @@ app.post('/users', (req, res) => {
   });
 });
 
+app.get('/auth/google',
+  passport.authenticate('google', {
+    scope: ['profile', 'email']
+  })
+)
+
+app.get('/auth/google/callback', passport.authenticate('google'))
+
 app.get('/users/me', authenticate, (req, res) => {
   res.send(req.user);
 });
@@ -65,7 +87,9 @@ app.delete('/users/me/token', authenticate, (req, res) => {
 app.post('/products', authenticate, (req, res) => {
   var product = new Product({
     name: req.body.name,
-    body: req.body.body,
+    description: req.body.description,
+    price: req.body.price,
+    seller: req.user.fullName,
     _creator: req.user._id
   });
 
@@ -76,23 +100,23 @@ app.post('/products', authenticate, (req, res) => {
   });
 });
 
-// app.get('/products', (req, res) => {
-//   Product.find().then((products) => {
-//     res.send({products})
-//   }, (e) => {
-//     res.status(400).send(e);
-//   });
-// });
-
-app.get('/products', authenticate, (req, res) => {
-  Product.find({
-    _creator: req.user._id
-  }).then((products) => {
+app.get('/products', (req, res) => {
+  Product.find().then((products) => {
     res.send({products})
   }, (e) => {
     res.status(400).send(e);
   });
 });
+
+// app.get('/products', authenticate, (req, res) => {
+//   Product.find({
+//     _creator: req.user._id
+//   }).then((products) => {
+//     res.send({products})
+//   }, (e) => {
+//     res.status(400).send(e);
+//   });
+// });
 
 app.get('/products/:id', authenticate, (req, res) => {
   var id = req.params.id;

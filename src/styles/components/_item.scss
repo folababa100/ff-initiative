@@ -22,6 +22,10 @@
   margin-bottom: 4rem;
 }
 
+.mb-6 {
+  margin-bottom: 2rem;
+}
+
 .hr {
   border-top: 2px solid rgba(0, 0, 0, 0.1);
   width: 95%;
@@ -128,7 +132,13 @@
   font-weight: 200;
 }
 
-.btn:focus {
+.my-btn-danger {
+  color: #fff;
+  background-color: #d93025;
+  border-color: #d93025;
+}
+
+.my-btn:focus {
   outline: 0;
   background-color: $serenity;
   background-image: none;
@@ -137,19 +147,19 @@
   color: black;
 }
 
-.btn {
+.my-btn {
   background-color: transparent;
   background-image: none;
   border-color: $serenity;
   color: $serenity;
 }
 
-.btn:hover {
+.my-btn:hover {
   background-color: $serenity;
   color: black;
 }
 
-.btn:active {
+.my-btn:active {
   background-color: $serenity;
   color: black;
 }
@@ -216,7 +226,7 @@
 }
 
 .card--adjust {
-  height: 32rem;
+  height: 34rem;
 }
 
 .btn-radius {
